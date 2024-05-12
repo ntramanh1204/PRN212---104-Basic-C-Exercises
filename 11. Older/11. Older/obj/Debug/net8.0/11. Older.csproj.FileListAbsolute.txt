@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\obj\Debug\net8.0\11. Older.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\obj\Debug\net8.0\11. Older.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\obj\Debug\net8.0\11. Older.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\obj\Debug\net8.0\11. Older.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\obj\Debug\net8.0\11. Older.sourcelink.json
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\bin\Debug\net8.0\11. Older.exe
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\bin\Debug\net8.0\11. Older.deps.json
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\bin\Debug\net8.0\11. Older.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\bin\Debug\net8.0\11. Older.dll
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\bin\Debug\net8.0\11. Older.pdb
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\obj\Debug\net8.0\11. Older.dll
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\obj\Debug\net8.0\refint\11. Older.dll
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\obj\Debug\net8.0\11. Older.pdb
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\obj\Debug\net8.0\11. Older.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\11. Older\11. Older\obj\Debug\net8.0\ref\11. Older.dll

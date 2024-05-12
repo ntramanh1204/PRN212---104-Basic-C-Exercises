@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "12. Four times in a row/1.0.0": {
+        "runtime": {
+          "12. Four times in a row.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12. Four times in a row/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

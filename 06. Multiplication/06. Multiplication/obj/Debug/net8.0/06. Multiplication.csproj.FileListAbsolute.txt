@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\bin\Debug\net8.0\06. Multiplication.exe
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\bin\Debug\net8.0\06. Multiplication.deps.json
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\bin\Debug\net8.0\06. Multiplication.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\bin\Debug\net8.0\06. Multiplication.dll
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\bin\Debug\net8.0\06. Multiplication.pdb
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\obj\Debug\net8.0\06. Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\obj\Debug\net8.0\06. Multiplication.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\obj\Debug\net8.0\06. Multiplication.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\obj\Debug\net8.0\06. Multiplication.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\obj\Debug\net8.0\06. Multiplication.sourcelink.json
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\obj\Debug\net8.0\06. Multiplication.dll
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\obj\Debug\net8.0\refint\06. Multiplication.dll
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\obj\Debug\net8.0\06. Multiplication.pdb
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\obj\Debug\net8.0\06. Multiplication.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\06. Multiplication\06. Multiplication\obj\Debug\net8.0\ref\06. Multiplication.dll

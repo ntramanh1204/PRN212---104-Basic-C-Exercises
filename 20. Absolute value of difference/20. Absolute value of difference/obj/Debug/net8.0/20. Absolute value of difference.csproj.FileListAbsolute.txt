@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\bin\Debug\net8.0\20. Absolute value of difference.exe
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\bin\Debug\net8.0\20. Absolute value of difference.deps.json
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\bin\Debug\net8.0\20. Absolute value of difference.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\bin\Debug\net8.0\20. Absolute value of difference.dll
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\bin\Debug\net8.0\20. Absolute value of difference.pdb
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\obj\Debug\net8.0\20. Absolute value of difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\obj\Debug\net8.0\20. Absolute value of difference.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\obj\Debug\net8.0\20. Absolute value of difference.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\obj\Debug\net8.0\20. Absolute value of difference.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\obj\Debug\net8.0\20. Absolute value of difference.sourcelink.json
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\obj\Debug\net8.0\20. Absolute value of difference.dll
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\obj\Debug\net8.0\refint\20. Absolute value of difference.dll
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\obj\Debug\net8.0\20. Absolute value of difference.pdb
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\obj\Debug\net8.0\20. Absolute value of difference.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\20. Absolute value of difference\20. Absolute value of difference\obj\Debug\net8.0\ref\20. Absolute value of difference.dll

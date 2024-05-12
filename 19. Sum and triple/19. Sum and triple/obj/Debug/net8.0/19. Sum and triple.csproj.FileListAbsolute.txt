@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\bin\Debug\net8.0\19. Sum and triple.exe
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\bin\Debug\net8.0\19. Sum and triple.deps.json
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\bin\Debug\net8.0\19. Sum and triple.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\bin\Debug\net8.0\19. Sum and triple.dll
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\bin\Debug\net8.0\19. Sum and triple.pdb
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\obj\Debug\net8.0\19. Sum and triple.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\obj\Debug\net8.0\19. Sum and triple.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\obj\Debug\net8.0\19. Sum and triple.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\obj\Debug\net8.0\19. Sum and triple.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\obj\Debug\net8.0\19. Sum and triple.sourcelink.json
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\obj\Debug\net8.0\19. Sum and triple.dll
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\obj\Debug\net8.0\refint\19. Sum and triple.dll
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\obj\Debug\net8.0\19. Sum and triple.pdb
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\obj\Debug\net8.0\19. Sum and triple.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\19. Sum and triple\19. Sum and triple\obj\Debug\net8.0\ref\19. Sum and triple.dll

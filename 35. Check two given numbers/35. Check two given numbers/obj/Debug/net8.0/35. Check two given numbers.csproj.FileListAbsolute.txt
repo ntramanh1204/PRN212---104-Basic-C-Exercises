@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\bin\Debug\net8.0\35. Check two given numbers.exe
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\bin\Debug\net8.0\35. Check two given numbers.deps.json
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\bin\Debug\net8.0\35. Check two given numbers.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\bin\Debug\net8.0\35. Check two given numbers.dll
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\bin\Debug\net8.0\35. Check two given numbers.pdb
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\obj\Debug\net8.0\35. Check two given numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\obj\Debug\net8.0\35. Check two given numbers.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\obj\Debug\net8.0\35. Check two given numbers.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\obj\Debug\net8.0\35. Check two given numbers.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\obj\Debug\net8.0\35. Check two given numbers.sourcelink.json
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\obj\Debug\net8.0\35. Check two given numbers.dll
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\obj\Debug\net8.0\refint\35. Check two given numbers.dll
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\obj\Debug\net8.0\35. Check two given numbers.pdb
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\obj\Debug\net8.0\35. Check two given numbers.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\35. Check two given numbers\35. Check two given numbers\obj\Debug\net8.0\ref\35. Check two given numbers.dll

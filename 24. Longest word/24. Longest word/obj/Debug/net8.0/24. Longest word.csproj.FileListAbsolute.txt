@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\obj\Debug\net8.0\24. Longest word.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\obj\Debug\net8.0\24. Longest word.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\obj\Debug\net8.0\24. Longest word.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\obj\Debug\net8.0\24. Longest word.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\obj\Debug\net8.0\24. Longest word.sourcelink.json
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\bin\Debug\net8.0\24. Longest word.exe
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\bin\Debug\net8.0\24. Longest word.deps.json
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\bin\Debug\net8.0\24. Longest word.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\bin\Debug\net8.0\24. Longest word.dll
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\bin\Debug\net8.0\24. Longest word.pdb
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\obj\Debug\net8.0\24. Longest word.dll
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\obj\Debug\net8.0\refint\24. Longest word.dll
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\obj\Debug\net8.0\24. Longest word.pdb
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\obj\Debug\net8.0\24. Longest word.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\24. Longest word\24. Longest word\obj\Debug\net8.0\ref\24. Longest word.dll

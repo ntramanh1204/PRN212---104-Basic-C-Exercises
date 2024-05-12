@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\obj\Debug\net8.0\21. Check sum 20.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\obj\Debug\net8.0\21. Check sum 20.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\obj\Debug\net8.0\21. Check sum 20.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\obj\Debug\net8.0\21. Check sum 20.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\obj\Debug\net8.0\21. Check sum 20.sourcelink.json
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\bin\Debug\net8.0\21. Check sum 20.exe
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\bin\Debug\net8.0\21. Check sum 20.deps.json
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\bin\Debug\net8.0\21. Check sum 20.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\bin\Debug\net8.0\21. Check sum 20.dll
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\bin\Debug\net8.0\21. Check sum 20.pdb
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\obj\Debug\net8.0\21. Check sum 20.dll
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\obj\Debug\net8.0\refint\21. Check sum 20.dll
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\obj\Debug\net8.0\21. Check sum 20.pdb
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\obj\Debug\net8.0\21. Check sum 20.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\21. Check sum 20\21. Check sum 20\obj\Debug\net8.0\ref\21. Check sum 20.dll

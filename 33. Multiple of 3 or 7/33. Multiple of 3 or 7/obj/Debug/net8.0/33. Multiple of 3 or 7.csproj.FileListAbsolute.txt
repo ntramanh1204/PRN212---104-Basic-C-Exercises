@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\bin\Debug\net8.0\33. Multiple of 3 or 7.exe
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\bin\Debug\net8.0\33. Multiple of 3 or 7.deps.json
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\bin\Debug\net8.0\33. Multiple of 3 or 7.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\bin\Debug\net8.0\33. Multiple of 3 or 7.dll
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\bin\Debug\net8.0\33. Multiple of 3 or 7.pdb
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\obj\Debug\net8.0\33. Multiple of 3 or 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\obj\Debug\net8.0\33. Multiple of 3 or 7.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\obj\Debug\net8.0\33. Multiple of 3 or 7.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\obj\Debug\net8.0\33. Multiple of 3 or 7.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\obj\Debug\net8.0\33. Multiple of 3 or 7.sourcelink.json
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\obj\Debug\net8.0\33. Multiple of 3 or 7.dll
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\obj\Debug\net8.0\refint\33. Multiple of 3 or 7.dll
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\obj\Debug\net8.0\33. Multiple of 3 or 7.pdb
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\obj\Debug\net8.0\33. Multiple of 3 or 7.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\33. Multiple of 3 or 7\33. Multiple of 3 or 7\obj\Debug\net8.0\ref\33. Multiple of 3 or 7.dll

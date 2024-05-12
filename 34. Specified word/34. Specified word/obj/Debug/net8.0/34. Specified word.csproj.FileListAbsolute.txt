@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\bin\Debug\net8.0\34. Specified word.exe
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\bin\Debug\net8.0\34. Specified word.deps.json
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\bin\Debug\net8.0\34. Specified word.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\bin\Debug\net8.0\34. Specified word.dll
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\bin\Debug\net8.0\34. Specified word.pdb
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\obj\Debug\net8.0\34. Specified word.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\obj\Debug\net8.0\34. Specified word.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\obj\Debug\net8.0\34. Specified word.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\obj\Debug\net8.0\34. Specified word.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\obj\Debug\net8.0\34. Specified word.sourcelink.json
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\obj\Debug\net8.0\34. Specified word.dll
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\obj\Debug\net8.0\refint\34. Specified word.dll
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\obj\Debug\net8.0\34. Specified word.pdb
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\obj\Debug\net8.0\34. Specified word.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\34. Specified word\34. Specified word\obj\Debug\net8.0\ref\34. Specified word.dll

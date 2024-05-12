@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\bin\Debug\net8.0\32. Last four char.exe
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\bin\Debug\net8.0\32. Last four char.deps.json
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\bin\Debug\net8.0\32. Last four char.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\bin\Debug\net8.0\32. Last four char.dll
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\bin\Debug\net8.0\32. Last four char.pdb
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\obj\Debug\net8.0\32. Last four char.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\obj\Debug\net8.0\32. Last four char.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\obj\Debug\net8.0\32. Last four char.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\obj\Debug\net8.0\32. Last four char.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\obj\Debug\net8.0\32. Last four char.sourcelink.json
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\obj\Debug\net8.0\32. Last four char.dll
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\obj\Debug\net8.0\refint\32. Last four char.dll
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\obj\Debug\net8.0\32. Last four char.pdb
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\obj\Debug\net8.0\32. Last four char.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\32. Last four char\32. Last four char\obj\Debug\net8.0\ref\32. Last four char.dll

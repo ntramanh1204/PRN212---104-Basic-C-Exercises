@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\bin\Debug\net8.0\25. The Odds.exe
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\bin\Debug\net8.0\25. The Odds.deps.json
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\bin\Debug\net8.0\25. The Odds.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\bin\Debug\net8.0\25. The Odds.dll
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\bin\Debug\net8.0\25. The Odds.pdb
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\obj\Debug\net8.0\25. The Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\obj\Debug\net8.0\25. The Odds.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\obj\Debug\net8.0\25. The Odds.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\obj\Debug\net8.0\25. The Odds.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\obj\Debug\net8.0\25. The Odds.sourcelink.json
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\obj\Debug\net8.0\25. The Odds.dll
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\obj\Debug\net8.0\refint\25. The Odds.dll
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\obj\Debug\net8.0\25. The Odds.pdb
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\obj\Debug\net8.0\25. The Odds.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\25. The Odds\25. The Odds\obj\Debug\net8.0\ref\25. The Odds.dll

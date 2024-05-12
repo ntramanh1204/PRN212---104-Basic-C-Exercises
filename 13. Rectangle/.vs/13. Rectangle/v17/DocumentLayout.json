@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\13. Rectangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76DA2C59-C076-4E5C-8163-29A8221C6536}|13. Rectangle\\13. Rectangle.csproj|d:\\code\\c#\\basic exercises\\13. rectangle\\13. rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76DA2C59-C076-4E5C-8163-29A8221C6536}|13. Rectangle\\13. Rectangle.csproj|solutionrelative:13. rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\13. Rectangle\\13. Rectangle\\Program.cs",
+              "RelativeDocumentMoniker": "13. Rectangle\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\13. Rectangle\\13. Rectangle\\Program.cs",
+              "RelativeToolTip": "13. Rectangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:12:21.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

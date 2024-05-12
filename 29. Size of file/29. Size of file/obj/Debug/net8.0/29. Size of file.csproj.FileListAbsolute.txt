@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\bin\Debug\net8.0\29. Size of file.exe
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\bin\Debug\net8.0\29. Size of file.deps.json
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\bin\Debug\net8.0\29. Size of file.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\bin\Debug\net8.0\29. Size of file.dll
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\bin\Debug\net8.0\29. Size of file.pdb
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\obj\Debug\net8.0\29. Size of file.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\obj\Debug\net8.0\29. Size of file.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\obj\Debug\net8.0\29. Size of file.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\obj\Debug\net8.0\29. Size of file.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\obj\Debug\net8.0\29. Size of file.sourcelink.json
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\obj\Debug\net8.0\29. Size of file.dll
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\obj\Debug\net8.0\refint\29. Size of file.dll
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\obj\Debug\net8.0\29. Size of file.pdb
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\obj\Debug\net8.0\29. Size of file.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\29. Size of file\29. Size of file\obj\Debug\net8.0\ref\29. Size of file.dll

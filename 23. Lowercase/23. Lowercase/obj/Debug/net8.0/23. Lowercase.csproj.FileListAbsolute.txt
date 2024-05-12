@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\bin\Debug\net8.0\23. Lowercase.exe
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\bin\Debug\net8.0\23. Lowercase.deps.json
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\bin\Debug\net8.0\23. Lowercase.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\bin\Debug\net8.0\23. Lowercase.dll
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\bin\Debug\net8.0\23. Lowercase.pdb
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\obj\Debug\net8.0\23. Lowercase.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\obj\Debug\net8.0\23. Lowercase.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\obj\Debug\net8.0\23. Lowercase.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\obj\Debug\net8.0\23. Lowercase.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\obj\Debug\net8.0\23. Lowercase.sourcelink.json
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\obj\Debug\net8.0\23. Lowercase.dll
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\obj\Debug\net8.0\refint\23. Lowercase.dll
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\obj\Debug\net8.0\23. Lowercase.pdb
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\obj\Debug\net8.0\23. Lowercase.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\23. Lowercase\23. Lowercase\obj\Debug\net8.0\ref\23. Lowercase.dll

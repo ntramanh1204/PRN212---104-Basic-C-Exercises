@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\bin\Debug\net8.0\01. Hello.exe
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\bin\Debug\net8.0\01. Hello.deps.json
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\bin\Debug\net8.0\01. Hello.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\bin\Debug\net8.0\01. Hello.dll
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\bin\Debug\net8.0\01. Hello.pdb
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\obj\Debug\net8.0\01. Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\obj\Debug\net8.0\01. Hello.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\obj\Debug\net8.0\01. Hello.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\obj\Debug\net8.0\01. Hello.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\obj\Debug\net8.0\01. Hello.sourcelink.json
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\obj\Debug\net8.0\01. Hello.dll
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\obj\Debug\net8.0\refint\01. Hello.dll
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\obj\Debug\net8.0\01. Hello.pdb
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\obj\Debug\net8.0\01. Hello.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\01. Hello\01. Hello\obj\Debug\net8.0\ref\01. Hello.dll

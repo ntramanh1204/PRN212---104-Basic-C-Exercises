@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\bin\Debug\net8.0\27. Sum of digits.exe
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\bin\Debug\net8.0\27. Sum of digits.deps.json
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\bin\Debug\net8.0\27. Sum of digits.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\bin\Debug\net8.0\27. Sum of digits.dll
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\bin\Debug\net8.0\27. Sum of digits.pdb
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\obj\Debug\net8.0\27. Sum of digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\obj\Debug\net8.0\27. Sum of digits.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\obj\Debug\net8.0\27. Sum of digits.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\obj\Debug\net8.0\27. Sum of digits.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\obj\Debug\net8.0\27. Sum of digits.sourcelink.json
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\obj\Debug\net8.0\27. Sum of digits.dll
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\obj\Debug\net8.0\refint\27. Sum of digits.dll
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\obj\Debug\net8.0\27. Sum of digits.pdb
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\obj\Debug\net8.0\27. Sum of digits.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\27. Sum of digits\27. Sum of digits\obj\Debug\net8.0\ref\27. Sum of digits.dll

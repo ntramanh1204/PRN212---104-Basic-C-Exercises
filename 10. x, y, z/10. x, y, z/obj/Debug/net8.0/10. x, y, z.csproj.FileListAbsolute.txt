@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\obj\Debug\net8.0\10. x, y, z.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\obj\Debug\net8.0\10. x, y, z.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\obj\Debug\net8.0\10. x, y, z.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\obj\Debug\net8.0\10. x, y, z.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\obj\Debug\net8.0\10. x, y, z.sourcelink.json
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\bin\Debug\net8.0\10. x, y, z.exe
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\bin\Debug\net8.0\10. x, y, z.deps.json
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\bin\Debug\net8.0\10. x, y, z.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\bin\Debug\net8.0\10. x, y, z.dll
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\bin\Debug\net8.0\10. x, y, z.pdb
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\obj\Debug\net8.0\10. x, y, z.dll
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\obj\Debug\net8.0\refint\10. x, y, z.dll
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\obj\Debug\net8.0\10. x, y, z.pdb
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\obj\Debug\net8.0\10. x, y, z.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\10. x, y, z\10. x, y, z\obj\Debug\net8.0\ref\10. x, y, z.dll

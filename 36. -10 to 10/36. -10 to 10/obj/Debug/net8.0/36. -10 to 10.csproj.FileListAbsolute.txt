@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\bin\Debug\net8.0\36. -10 to 10.exe
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\bin\Debug\net8.0\36. -10 to 10.deps.json
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\bin\Debug\net8.0\36. -10 to 10.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\bin\Debug\net8.0\36. -10 to 10.dll
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\bin\Debug\net8.0\36. -10 to 10.pdb
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\obj\Debug\net8.0\36. -10 to 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\obj\Debug\net8.0\36. -10 to 10.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\obj\Debug\net8.0\36. -10 to 10.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\obj\Debug\net8.0\36. -10 to 10.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\obj\Debug\net8.0\36. -10 to 10.sourcelink.json
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\obj\Debug\net8.0\36. -10 to 10.dll
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\obj\Debug\net8.0\refint\36. -10 to 10.dll
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\obj\Debug\net8.0\36. -10 to 10.pdb
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\obj\Debug\net8.0\36. -10 to 10.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\36. -10 to 10\36. -10 to 10\obj\Debug\net8.0\ref\36. -10 to 10.dll

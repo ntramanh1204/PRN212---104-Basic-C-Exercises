@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\bin\Debug\net8.0\30. Hex to Dec.exe
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\bin\Debug\net8.0\30. Hex to Dec.deps.json
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\bin\Debug\net8.0\30. Hex to Dec.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\bin\Debug\net8.0\30. Hex to Dec.dll
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\bin\Debug\net8.0\30. Hex to Dec.pdb
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\obj\Debug\net8.0\30. Hex to Dec.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\obj\Debug\net8.0\30. Hex to Dec.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\obj\Debug\net8.0\30. Hex to Dec.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\obj\Debug\net8.0\30. Hex to Dec.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\obj\Debug\net8.0\30. Hex to Dec.sourcelink.json
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\obj\Debug\net8.0\30. Hex to Dec.dll
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\obj\Debug\net8.0\refint\30. Hex to Dec.dll
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\obj\Debug\net8.0\30. Hex to Dec.pdb
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\obj\Debug\net8.0\30. Hex to Dec.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\30. Hex to Dec\30. Hex to Dec\obj\Debug\net8.0\ref\30. Hex to Dec.dll

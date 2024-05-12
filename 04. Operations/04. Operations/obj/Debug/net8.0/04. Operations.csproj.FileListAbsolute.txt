@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\bin\Debug\net8.0\04. Operations.exe
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\bin\Debug\net8.0\04. Operations.deps.json
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\bin\Debug\net8.0\04. Operations.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\bin\Debug\net8.0\04. Operations.dll
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\bin\Debug\net8.0\04. Operations.pdb
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\obj\Debug\net8.0\04. Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\obj\Debug\net8.0\04. Operations.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\obj\Debug\net8.0\04. Operations.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\obj\Debug\net8.0\04. Operations.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\obj\Debug\net8.0\04. Operations.sourcelink.json
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\obj\Debug\net8.0\04. Operations.dll
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\obj\Debug\net8.0\refint\04. Operations.dll
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\obj\Debug\net8.0\04. Operations.pdb
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\obj\Debug\net8.0\04. Operations.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\04. Operations\04. Operations\obj\Debug\net8.0\ref\04. Operations.dll

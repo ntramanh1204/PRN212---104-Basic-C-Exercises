@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\32. Last four char\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E10DFC8C-0830-4EF0-9164-33A0FF637B43}|32. Last four char\\32. Last four char.csproj|d:\\code\\c#\\basic exercises\\32. last four char\\32. last four char\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10DFC8C-0830-4EF0-9164-33A0FF637B43}|32. Last four char\\32. Last four char.csproj|solutionrelative:32. last four char\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\32. Last four char\\32. Last four char\\Program.cs",
+              "RelativeDocumentMoniker": "32. Last four char\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\32. Last four char\\32. Last four char\\Program.cs",
+              "RelativeToolTip": "32. Last four char\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:08:55.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

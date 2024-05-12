@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\05. Swap Two\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACA76B2-6C78-47AD-84C1-F1DBE249BC86}|05. Swap Two\\05. Swap Two.csproj|d:\\code\\c#\\basic exercises\\05. swap two\\05. swap two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACA76B2-6C78-47AD-84C1-F1DBE249BC86}|05. Swap Two\\05. Swap Two.csproj|solutionrelative:05. swap two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\05. Swap Two\\05. Swap Two\\Program.cs",
+              "RelativeDocumentMoniker": "05. Swap Two\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\05. Swap Two\\05. Swap Two\\Program.cs",
+              "RelativeToolTip": "05. Swap Two\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:32:29.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

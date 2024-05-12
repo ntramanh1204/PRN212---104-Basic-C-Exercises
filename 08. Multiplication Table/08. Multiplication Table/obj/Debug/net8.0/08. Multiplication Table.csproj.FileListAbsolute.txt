@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\bin\Debug\net8.0\08. Multiplication Table.exe
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\bin\Debug\net8.0\08. Multiplication Table.deps.json
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\bin\Debug\net8.0\08. Multiplication Table.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\bin\Debug\net8.0\08. Multiplication Table.dll
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\bin\Debug\net8.0\08. Multiplication Table.pdb
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\obj\Debug\net8.0\08. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\obj\Debug\net8.0\08. Multiplication Table.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\obj\Debug\net8.0\08. Multiplication Table.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\obj\Debug\net8.0\08. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\obj\Debug\net8.0\08. Multiplication Table.sourcelink.json
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\obj\Debug\net8.0\08. Multiplication Table.dll
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\obj\Debug\net8.0\refint\08. Multiplication Table.dll
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\obj\Debug\net8.0\08. Multiplication Table.pdb
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\obj\Debug\net8.0\08. Multiplication Table.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\08. Multiplication Table\08. Multiplication Table\obj\Debug\net8.0\ref\08. Multiplication Table.dll

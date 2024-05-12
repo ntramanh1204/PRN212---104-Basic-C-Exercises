@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\obj\Debug\net8.0\07. Add, Subtract, Multiply, Divide.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\obj\Debug\net8.0\07. Add, Subtract, Multiply, Divide.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\obj\Debug\net8.0\07. Add, Subtract, Multiply, Divide.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\obj\Debug\net8.0\07. Add, Subtract, Multiply, Divide.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\obj\Debug\net8.0\07. Add, Subtract, Multiply, Divide.sourcelink.json
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\bin\Debug\net8.0\07. Add, Subtract, Multiply, Divide.exe
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\bin\Debug\net8.0\07. Add, Subtract, Multiply, Divide.deps.json
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\bin\Debug\net8.0\07. Add, Subtract, Multiply, Divide.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\bin\Debug\net8.0\07. Add, Subtract, Multiply, Divide.dll
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\bin\Debug\net8.0\07. Add, Subtract, Multiply, Divide.pdb
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\obj\Debug\net8.0\07. Add, Subtract, Multiply, Divide.dll
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\obj\Debug\net8.0\refint\07. Add, Subtract, Multiply, Divide.dll
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\obj\Debug\net8.0\07. Add, Subtract, Multiply, Divide.pdb
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\obj\Debug\net8.0\07. Add, Subtract, Multiply, Divide.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\07. Add, Subtract, Multiply, Divide\07. Add, Subtract, Multiply, Divide\obj\Debug\net8.0\ref\07. Add, Subtract, Multiply, Divide.dll

@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\bin\Debug\net8.0\37. HP.exe
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\bin\Debug\net8.0\37. HP.deps.json
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\bin\Debug\net8.0\37. HP.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\bin\Debug\net8.0\37. HP.dll
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\bin\Debug\net8.0\37. HP.pdb
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\obj\Debug\net8.0\37. HP.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\obj\Debug\net8.0\37. HP.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\obj\Debug\net8.0\37. HP.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\obj\Debug\net8.0\37. HP.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\obj\Debug\net8.0\37. HP.sourcelink.json
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\obj\Debug\net8.0\37. HP.dll
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\obj\Debug\net8.0\refint\37. HP.dll
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\obj\Debug\net8.0\37. HP.pdb
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\obj\Debug\net8.0\37. HP.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\37. HP\37. HP\obj\Debug\net8.0\ref\37. HP.dll

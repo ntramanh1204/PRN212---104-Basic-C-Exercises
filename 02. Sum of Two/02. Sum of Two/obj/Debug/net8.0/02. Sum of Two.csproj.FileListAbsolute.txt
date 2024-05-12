@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\obj\Debug\net8.0\02. Sum of Two.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\obj\Debug\net8.0\02. Sum of Two.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\obj\Debug\net8.0\02. Sum of Two.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\obj\Debug\net8.0\02. Sum of Two.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\obj\Debug\net8.0\02. Sum of Two.sourcelink.json
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\bin\Debug\net8.0\02. Sum of Two.exe
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\bin\Debug\net8.0\02. Sum of Two.deps.json
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\bin\Debug\net8.0\02. Sum of Two.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\bin\Debug\net8.0\02. Sum of Two.dll
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\bin\Debug\net8.0\02. Sum of Two.pdb
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\obj\Debug\net8.0\02. Sum of Two.dll
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\obj\Debug\net8.0\refint\02. Sum of Two.dll
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\obj\Debug\net8.0\02. Sum of Two.pdb
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\obj\Debug\net8.0\02. Sum of Two.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\02. Sum of Two\02. Sum of Two\obj\Debug\net8.0\ref\02. Sum of Two.dll

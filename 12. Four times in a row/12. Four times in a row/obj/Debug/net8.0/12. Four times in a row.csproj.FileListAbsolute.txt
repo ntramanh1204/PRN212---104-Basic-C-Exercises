@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\bin\Debug\net8.0\12. Four times in a row.exe
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\bin\Debug\net8.0\12. Four times in a row.deps.json
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\bin\Debug\net8.0\12. Four times in a row.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\bin\Debug\net8.0\12. Four times in a row.dll
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\bin\Debug\net8.0\12. Four times in a row.pdb
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\obj\Debug\net8.0\12. Four times in a row.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\obj\Debug\net8.0\12. Four times in a row.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\obj\Debug\net8.0\12. Four times in a row.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\obj\Debug\net8.0\12. Four times in a row.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\obj\Debug\net8.0\12. Four times in a row.sourcelink.json
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\obj\Debug\net8.0\12. Four times in a row.dll
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\obj\Debug\net8.0\refint\12. Four times in a row.dll
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\obj\Debug\net8.0\12. Four times in a row.pdb
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\obj\Debug\net8.0\12. Four times in a row.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\12. Four times in a row\12. Four times in a row\obj\Debug\net8.0\ref\12. Four times in a row.dll

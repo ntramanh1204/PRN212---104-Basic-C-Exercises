@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\bin\Debug\net8.0\16. Swap first last position.exe
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\bin\Debug\net8.0\16. Swap first last position.deps.json
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\bin\Debug\net8.0\16. Swap first last position.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\bin\Debug\net8.0\16. Swap first last position.dll
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\bin\Debug\net8.0\16. Swap first last position.pdb
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\obj\Debug\net8.0\16. Swap first last position.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\obj\Debug\net8.0\16. Swap first last position.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\obj\Debug\net8.0\16. Swap first last position.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\obj\Debug\net8.0\16. Swap first last position.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\obj\Debug\net8.0\16. Swap first last position.sourcelink.json
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\obj\Debug\net8.0\16. Swap first last position.dll
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\obj\Debug\net8.0\refint\16. Swap first last position.dll
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\obj\Debug\net8.0\16. Swap first last position.pdb
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\obj\Debug\net8.0\16. Swap first last position.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\16. Swap first last position\16. Swap first last position\obj\Debug\net8.0\ref\16. Swap first last position.dll

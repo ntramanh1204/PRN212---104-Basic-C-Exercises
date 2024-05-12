@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\bin\Debug\net8.0\13. Rectangle.exe
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\bin\Debug\net8.0\13. Rectangle.deps.json
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\bin\Debug\net8.0\13. Rectangle.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\bin\Debug\net8.0\13. Rectangle.dll
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\bin\Debug\net8.0\13. Rectangle.pdb
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\obj\Debug\net8.0\13. Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\obj\Debug\net8.0\13. Rectangle.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\obj\Debug\net8.0\13. Rectangle.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\obj\Debug\net8.0\13. Rectangle.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\obj\Debug\net8.0\13. Rectangle.sourcelink.json
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\obj\Debug\net8.0\13. Rectangle.dll
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\obj\Debug\net8.0\refint\13. Rectangle.dll
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\obj\Debug\net8.0\13. Rectangle.pdb
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\obj\Debug\net8.0\13. Rectangle.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\13. Rectangle\13. Rectangle\obj\Debug\net8.0\ref\13. Rectangle.dll

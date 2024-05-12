@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\bin\Debug\net8.0\03. Divide Two.exe
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\bin\Debug\net8.0\03. Divide Two.deps.json
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\bin\Debug\net8.0\03. Divide Two.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\bin\Debug\net8.0\03. Divide Two.dll
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\bin\Debug\net8.0\03. Divide Two.pdb
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\obj\Debug\net8.0\03. Divide Two.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\obj\Debug\net8.0\03. Divide Two.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\obj\Debug\net8.0\03. Divide Two.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\obj\Debug\net8.0\03. Divide Two.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\obj\Debug\net8.0\03. Divide Two.sourcelink.json
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\obj\Debug\net8.0\03. Divide Two.dll
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\obj\Debug\net8.0\refint\03. Divide Two.dll
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\obj\Debug\net8.0\03. Divide Two.pdb
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\obj\Debug\net8.0\03. Divide Two.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\03. Divide Two\03. Divide Two\obj\Debug\net8.0\ref\03. Divide Two.dll

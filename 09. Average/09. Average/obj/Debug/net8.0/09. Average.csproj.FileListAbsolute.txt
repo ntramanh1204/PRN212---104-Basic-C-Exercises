@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\obj\Debug\net8.0\09. Average.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\obj\Debug\net8.0\09. Average.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\obj\Debug\net8.0\09. Average.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\obj\Debug\net8.0\09. Average.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\obj\Debug\net8.0\09. Average.sourcelink.json
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\bin\Debug\net8.0\09. Average.exe
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\bin\Debug\net8.0\09. Average.deps.json
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\bin\Debug\net8.0\09. Average.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\bin\Debug\net8.0\09. Average.dll
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\bin\Debug\net8.0\09. Average.pdb
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\obj\Debug\net8.0\09. Average.dll
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\obj\Debug\net8.0\refint\09. Average.dll
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\obj\Debug\net8.0\09. Average.pdb
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\obj\Debug\net8.0\09. Average.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\09. Average\09. Average\obj\Debug\net8.0\ref\09. Average.dll

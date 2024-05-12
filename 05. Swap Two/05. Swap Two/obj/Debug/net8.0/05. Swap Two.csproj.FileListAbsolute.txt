@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\bin\Debug\net8.0\05. Swap Two.exe
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\bin\Debug\net8.0\05. Swap Two.deps.json
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\bin\Debug\net8.0\05. Swap Two.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\bin\Debug\net8.0\05. Swap Two.dll
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\bin\Debug\net8.0\05. Swap Two.pdb
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\obj\Debug\net8.0\05. Swap Two.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\obj\Debug\net8.0\05. Swap Two.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\obj\Debug\net8.0\05. Swap Two.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\obj\Debug\net8.0\05. Swap Two.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\obj\Debug\net8.0\05. Swap Two.sourcelink.json
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\obj\Debug\net8.0\05. Swap Two.dll
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\obj\Debug\net8.0\refint\05. Swap Two.dll
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\obj\Debug\net8.0\05. Swap Two.pdb
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\obj\Debug\net8.0\05. Swap Two.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\05. Swap Two\05. Swap Two\obj\Debug\net8.0\ref\05. Swap Two.dll

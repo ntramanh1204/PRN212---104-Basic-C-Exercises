@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\bin\Debug\net8.0\17. First char added.exe
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\bin\Debug\net8.0\17. First char added.deps.json
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\bin\Debug\net8.0\17. First char added.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\bin\Debug\net8.0\17. First char added.dll
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\bin\Debug\net8.0\17. First char added.pdb
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\obj\Debug\net8.0\17. First char added.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\obj\Debug\net8.0\17. First char added.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\obj\Debug\net8.0\17. First char added.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\obj\Debug\net8.0\17. First char added.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\obj\Debug\net8.0\17. First char added.sourcelink.json
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\obj\Debug\net8.0\17. First char added.dll
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\obj\Debug\net8.0\refint\17. First char added.dll
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\obj\Debug\net8.0\17. First char added.pdb
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\obj\Debug\net8.0\17. First char added.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\17. First char added\17. First char added\obj\Debug\net8.0\ref\17. First char added.dll

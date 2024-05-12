@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\bin\Debug\net8.0\15. Remove Char.exe
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\bin\Debug\net8.0\15. Remove Char.deps.json
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\bin\Debug\net8.0\15. Remove Char.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\bin\Debug\net8.0\15. Remove Char.dll
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\bin\Debug\net8.0\15. Remove Char.pdb
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\obj\Debug\net8.0\15. Remove Char.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\obj\Debug\net8.0\15. Remove Char.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\obj\Debug\net8.0\15. Remove Char.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\obj\Debug\net8.0\15. Remove Char.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\obj\Debug\net8.0\15. Remove Char.sourcelink.json
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\obj\Debug\net8.0\15. Remove Char.dll
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\obj\Debug\net8.0\refint\15. Remove Char.dll
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\obj\Debug\net8.0\15. Remove Char.pdb
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\obj\Debug\net8.0\15. Remove Char.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\15. Remove Char\15. Remove Char\obj\Debug\net8.0\ref\15. Remove Char.dll

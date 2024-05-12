@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\bin\Debug\net8.0\31. Multiply arrays.exe
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\bin\Debug\net8.0\31. Multiply arrays.deps.json
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\bin\Debug\net8.0\31. Multiply arrays.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\bin\Debug\net8.0\31. Multiply arrays.dll
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\bin\Debug\net8.0\31. Multiply arrays.pdb
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\obj\Debug\net8.0\31. Multiply arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\obj\Debug\net8.0\31. Multiply arrays.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\obj\Debug\net8.0\31. Multiply arrays.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\obj\Debug\net8.0\31. Multiply arrays.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\obj\Debug\net8.0\31. Multiply arrays.sourcelink.json
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\obj\Debug\net8.0\31. Multiply arrays.dll
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\obj\Debug\net8.0\refint\31. Multiply arrays.dll
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\obj\Debug\net8.0\31. Multiply arrays.pdb
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\obj\Debug\net8.0\31. Multiply arrays.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\31. Multiply arrays\31. Multiply arrays\obj\Debug\net8.0\ref\31. Multiply arrays.dll

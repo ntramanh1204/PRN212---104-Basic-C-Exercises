@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\obj\Debug\net8.0\28. Reverse words in sentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\obj\Debug\net8.0\28. Reverse words in sentence.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\obj\Debug\net8.0\28. Reverse words in sentence.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\obj\Debug\net8.0\28. Reverse words in sentence.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\obj\Debug\net8.0\28. Reverse words in sentence.sourcelink.json
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\bin\Debug\net8.0\28. Reverse words in sentence.exe
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\bin\Debug\net8.0\28. Reverse words in sentence.deps.json
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\bin\Debug\net8.0\28. Reverse words in sentence.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\bin\Debug\net8.0\28. Reverse words in sentence.dll
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\bin\Debug\net8.0\28. Reverse words in sentence.pdb
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\obj\Debug\net8.0\28. Reverse words in sentence.dll
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\obj\Debug\net8.0\refint\28. Reverse words in sentence.dll
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\obj\Debug\net8.0\28. Reverse words in sentence.pdb
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\obj\Debug\net8.0\28. Reverse words in sentence.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\28. Reverse words in sentence\28. Reverse words in sentence\obj\Debug\net8.0\ref\28. Reverse words in sentence.dll

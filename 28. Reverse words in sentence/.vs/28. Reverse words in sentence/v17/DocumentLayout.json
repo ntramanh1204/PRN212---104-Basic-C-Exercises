@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\28. Reverse words in sentence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F51AE82-3079-4234-84FD-0151EE3BA672}|28. Reverse words in sentence\\28. Reverse words in sentence.csproj|d:\\code\\c#\\basic exercises\\28. reverse words in sentence\\28. reverse words in sentence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F51AE82-3079-4234-84FD-0151EE3BA672}|28. Reverse words in sentence\\28. Reverse words in sentence.csproj|solutionrelative:28. reverse words in sentence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\28. Reverse words in sentence\\28. Reverse words in sentence\\Program.cs",
+              "RelativeDocumentMoniker": "28. Reverse words in sentence\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\28. Reverse words in sentence\\28. Reverse words in sentence\\Program.cs",
+              "RelativeToolTip": "28. Reverse words in sentence\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:52:30.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

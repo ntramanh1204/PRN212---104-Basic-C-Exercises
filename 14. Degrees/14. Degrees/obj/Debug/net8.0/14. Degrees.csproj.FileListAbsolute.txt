@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\bin\Debug\net8.0\14. Degrees.exe
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\bin\Debug\net8.0\14. Degrees.deps.json
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\bin\Debug\net8.0\14. Degrees.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\bin\Debug\net8.0\14. Degrees.dll
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\bin\Debug\net8.0\14. Degrees.pdb
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\obj\Debug\net8.0\14. Degrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\obj\Debug\net8.0\14. Degrees.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\obj\Debug\net8.0\14. Degrees.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\obj\Debug\net8.0\14. Degrees.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\obj\Debug\net8.0\14. Degrees.sourcelink.json
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\obj\Debug\net8.0\14. Degrees.dll
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\obj\Debug\net8.0\refint\14. Degrees.dll
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\obj\Debug\net8.0\14. Degrees.pdb
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\obj\Debug\net8.0\14. Degrees.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\14. Degrees\14. Degrees\obj\Debug\net8.0\ref\14. Degrees.dll

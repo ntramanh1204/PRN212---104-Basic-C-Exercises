@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\19. Sum and triple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38BAA7D1-E645-4194-9C68-012429ACB435}|19. Sum and triple\\19. Sum and triple.csproj|d:\\code\\c#\\basic exercises\\19. sum and triple\\19. sum and triple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BAA7D1-E645-4194-9C68-012429ACB435}|19. Sum and triple\\19. Sum and triple.csproj|solutionrelative:19. sum and triple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\19. Sum and triple\\19. Sum and triple\\Program.cs",
+              "RelativeDocumentMoniker": "19. Sum and triple\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\19. Sum and triple\\19. Sum and triple\\Program.cs",
+              "RelativeToolTip": "19. Sum and triple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:44:23.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
