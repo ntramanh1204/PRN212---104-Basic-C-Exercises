@@ -13,3 +13,18 @@ D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.
 D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.pdb
 D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.genruntimeconfig.cache
 D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\ref\75. nth odd number.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\bin\Debug\net8.0\75. nth odd number.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\bin\Debug\net8.0\75. nth odd number.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\bin\Debug\net8.0\75. nth odd number.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\bin\Debug\net8.0\75. nth odd number.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\bin\Debug\net8.0\75. nth odd number.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\refint\75. nth odd number.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\ref\75. nth odd number.dll

@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\bin\Debug\net8.0\81. Swap.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\bin\Debug\net8.0\81. Swap.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\bin\Debug\net8.0\81. Swap.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\bin\Debug\net8.0\81. Swap.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\bin\Debug\net8.0\81. Swap.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\obj\Debug\net8.0\81. Swap.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\obj\Debug\net8.0\81. Swap.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\obj\Debug\net8.0\81. Swap.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\obj\Debug\net8.0\81. Swap.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\obj\Debug\net8.0\81. Swap.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\obj\Debug\net8.0\81. Swap.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\obj\Debug\net8.0\refint\81. Swap.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\obj\Debug\net8.0\81. Swap.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\obj\Debug\net8.0\81. Swap.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\81. Swap\81. Swap\obj\Debug\net8.0\ref\81. Swap.dll

@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\bin\Debug\net8.0\87. Boolean value.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\bin\Debug\net8.0\87. Boolean value.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\bin\Debug\net8.0\87. Boolean value.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\bin\Debug\net8.0\87. Boolean value.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\bin\Debug\net8.0\87. Boolean value.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\obj\Debug\net8.0\87. Boolean value.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\obj\Debug\net8.0\87. Boolean value.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\obj\Debug\net8.0\87. Boolean value.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\obj\Debug\net8.0\87. Boolean value.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\obj\Debug\net8.0\87. Boolean value.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\obj\Debug\net8.0\87. Boolean value.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\obj\Debug\net8.0\refint\87. Boolean value.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\obj\Debug\net8.0\87. Boolean value.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\obj\Debug\net8.0\87. Boolean value.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\87. Boolean value\87. Boolean value\obj\Debug\net8.0\ref\87. Boolean value.dll

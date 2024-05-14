@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\bin\Debug\net8.0\96. Same char.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\bin\Debug\net8.0\96. Same char.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\bin\Debug\net8.0\96. Same char.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\bin\Debug\net8.0\96. Same char.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\bin\Debug\net8.0\96. Same char.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\obj\Debug\net8.0\96. Same char.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\obj\Debug\net8.0\96. Same char.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\obj\Debug\net8.0\96. Same char.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\obj\Debug\net8.0\96. Same char.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\obj\Debug\net8.0\96. Same char.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\obj\Debug\net8.0\96. Same char.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\obj\Debug\net8.0\refint\96. Same char.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\obj\Debug\net8.0\96. Same char.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\obj\Debug\net8.0\96. Same char.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\96. Same char\96. Same char\obj\Debug\net8.0\ref\96. Same char.dll

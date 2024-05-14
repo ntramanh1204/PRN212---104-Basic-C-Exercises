@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\bin\Debug\net8.0\85. Cumulative sum.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\bin\Debug\net8.0\85. Cumulative sum.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\bin\Debug\net8.0\85. Cumulative sum.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\bin\Debug\net8.0\85. Cumulative sum.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\bin\Debug\net8.0\85. Cumulative sum.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\obj\Debug\net8.0\85. Cumulative sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\obj\Debug\net8.0\85. Cumulative sum.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\obj\Debug\net8.0\85. Cumulative sum.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\obj\Debug\net8.0\85. Cumulative sum.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\obj\Debug\net8.0\85. Cumulative sum.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\obj\Debug\net8.0\85. Cumulative sum.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\obj\Debug\net8.0\refint\85. Cumulative sum.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\obj\Debug\net8.0\85. Cumulative sum.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\obj\Debug\net8.0\85. Cumulative sum.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\85. Cumulative sum\85. Cumulative sum\obj\Debug\net8.0\ref\85. Cumulative sum.dll

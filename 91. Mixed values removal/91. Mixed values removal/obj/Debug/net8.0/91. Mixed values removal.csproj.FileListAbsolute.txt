@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\bin\Debug\net8.0\91. Mixed values removal.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\bin\Debug\net8.0\91. Mixed values removal.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\bin\Debug\net8.0\91. Mixed values removal.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\bin\Debug\net8.0\91. Mixed values removal.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\bin\Debug\net8.0\91. Mixed values removal.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\obj\Debug\net8.0\91. Mixed values removal.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\obj\Debug\net8.0\91. Mixed values removal.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\obj\Debug\net8.0\91. Mixed values removal.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\obj\Debug\net8.0\91. Mixed values removal.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\obj\Debug\net8.0\91. Mixed values removal.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\obj\Debug\net8.0\91. Mixed values removal.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\obj\Debug\net8.0\refint\91. Mixed values removal.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\obj\Debug\net8.0\91. Mixed values removal.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\obj\Debug\net8.0\91. Mixed values removal.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\91. Mixed values removal\91. Mixed values removal\obj\Debug\net8.0\ref\91. Mixed values removal.dll

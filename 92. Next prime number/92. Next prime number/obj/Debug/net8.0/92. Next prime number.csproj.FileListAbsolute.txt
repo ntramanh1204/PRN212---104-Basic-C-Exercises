@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\obj\Debug\net8.0\92. Next prime number.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\obj\Debug\net8.0\92. Next prime number.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\obj\Debug\net8.0\92. Next prime number.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\obj\Debug\net8.0\92. Next prime number.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\obj\Debug\net8.0\92. Next prime number.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\bin\Debug\net8.0\92. Next prime number.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\bin\Debug\net8.0\92. Next prime number.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\bin\Debug\net8.0\92. Next prime number.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\bin\Debug\net8.0\92. Next prime number.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\bin\Debug\net8.0\92. Next prime number.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\obj\Debug\net8.0\92. Next prime number.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\obj\Debug\net8.0\refint\92. Next prime number.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\obj\Debug\net8.0\92. Next prime number.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\obj\Debug\net8.0\92. Next prime number.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\92. Next prime number\92. Next prime number\obj\Debug\net8.0\ref\92. Next prime number.dll

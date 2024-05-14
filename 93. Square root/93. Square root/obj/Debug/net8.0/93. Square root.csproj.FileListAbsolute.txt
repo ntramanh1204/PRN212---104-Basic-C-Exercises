@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\bin\Debug\net8.0\93. Square root.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\bin\Debug\net8.0\93. Square root.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\bin\Debug\net8.0\93. Square root.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\bin\Debug\net8.0\93. Square root.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\bin\Debug\net8.0\93. Square root.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\obj\Debug\net8.0\93. Square root.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\obj\Debug\net8.0\93. Square root.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\obj\Debug\net8.0\93. Square root.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\obj\Debug\net8.0\93. Square root.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\obj\Debug\net8.0\93. Square root.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\obj\Debug\net8.0\93. Square root.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\obj\Debug\net8.0\refint\93. Square root.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\obj\Debug\net8.0\93. Square root.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\obj\Debug\net8.0\93. Square root.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\93. Square root\93. Square root\obj\Debug\net8.0\ref\93. Square root.dll

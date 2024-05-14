@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\obj\Debug\net8.0\97. Numeric.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\obj\Debug\net8.0\97. Numeric.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\obj\Debug\net8.0\97. Numeric.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\obj\Debug\net8.0\97. Numeric.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\obj\Debug\net8.0\97. Numeric.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\bin\Debug\net8.0\97. Numeric.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\bin\Debug\net8.0\97. Numeric.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\bin\Debug\net8.0\97. Numeric.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\bin\Debug\net8.0\97. Numeric.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\bin\Debug\net8.0\97. Numeric.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\obj\Debug\net8.0\97. Numeric.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\obj\Debug\net8.0\refint\97. Numeric.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\obj\Debug\net8.0\97. Numeric.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\obj\Debug\net8.0\97. Numeric.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\97. Numeric\97. Numeric\obj\Debug\net8.0\ref\97. Numeric.dll

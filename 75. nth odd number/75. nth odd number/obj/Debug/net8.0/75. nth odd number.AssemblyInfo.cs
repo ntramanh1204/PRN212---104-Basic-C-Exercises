@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("75. nth odd number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c92fed66e002c2f05944d2a7d839375f0431f760")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+477b0187149bcefde319c33e1d386ede584313ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("75. nth odd number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("75. nth odd number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

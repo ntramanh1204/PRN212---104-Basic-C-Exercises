@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\bin\Debug\net8.0\90. Ones and Zeros.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\bin\Debug\net8.0\90. Ones and Zeros.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\bin\Debug\net8.0\90. Ones and Zeros.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\bin\Debug\net8.0\90. Ones and Zeros.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\bin\Debug\net8.0\90. Ones and Zeros.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\obj\Debug\net8.0\90. Ones and Zeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\obj\Debug\net8.0\90. Ones and Zeros.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\obj\Debug\net8.0\90. Ones and Zeros.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\obj\Debug\net8.0\90. Ones and Zeros.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\obj\Debug\net8.0\90. Ones and Zeros.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\obj\Debug\net8.0\90. Ones and Zeros.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\obj\Debug\net8.0\refint\90. Ones and Zeros.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\obj\Debug\net8.0\90. Ones and Zeros.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\obj\Debug\net8.0\90. Ones and Zeros.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\90. Ones and Zeros\90. Ones and Zeros\obj\Debug\net8.0\ref\90. Ones and Zeros.dll

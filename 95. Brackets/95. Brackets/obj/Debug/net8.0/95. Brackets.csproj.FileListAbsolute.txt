@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\obj\Debug\net8.0\95. Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\obj\Debug\net8.0\95. Brackets.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\obj\Debug\net8.0\95. Brackets.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\obj\Debug\net8.0\95. Brackets.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\obj\Debug\net8.0\95. Brackets.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\bin\Debug\net8.0\95. Brackets.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\bin\Debug\net8.0\95. Brackets.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\bin\Debug\net8.0\95. Brackets.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\bin\Debug\net8.0\95. Brackets.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\bin\Debug\net8.0\95. Brackets.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\obj\Debug\net8.0\95. Brackets.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\obj\Debug\net8.0\refint\95. Brackets.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\obj\Debug\net8.0\95. Brackets.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\obj\Debug\net8.0\95. Brackets.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\95. Brackets\95. Brackets\obj\Debug\net8.0\ref\95. Brackets.dll

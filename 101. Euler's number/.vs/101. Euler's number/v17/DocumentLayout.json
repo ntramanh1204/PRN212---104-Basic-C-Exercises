@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\101. Euler\u0027s number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D51DDE-E7E0-4E40-B689-6B62BE6C8E0B}|101. Euler\u0027s number\\101. Euler\u0027s number.csproj|d:\\0. workspace\\code\\c#\\basic exercises\\101. euler\u0027s number\\101. euler\u0027s number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D51DDE-E7E0-4E40-B689-6B62BE6C8E0B}|101. Euler\u0027s number\\101. Euler\u0027s number.csproj|solutionrelative:101. euler\u0027s number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\101. Euler\u0027s number\\101. Euler\u0027s number\\Program.cs",
+              "RelativeDocumentMoniker": "101. Euler\u0027s number\\Program.cs",
+              "ToolTip": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\101. Euler\u0027s number\\101. Euler\u0027s number\\Program.cs",
+              "RelativeToolTip": "101. Euler\u0027s number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:23:47.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

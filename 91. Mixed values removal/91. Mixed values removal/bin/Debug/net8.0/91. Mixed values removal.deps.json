@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "91. Mixed values removal/1.0.0": {
+        "runtime": {
+          "91. Mixed values removal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "91. Mixed values removal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

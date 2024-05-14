@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\bin\Debug\net8.0\88. Polygon.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\bin\Debug\net8.0\88. Polygon.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\bin\Debug\net8.0\88. Polygon.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\bin\Debug\net8.0\88. Polygon.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\bin\Debug\net8.0\88. Polygon.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\obj\Debug\net8.0\88. Polygon.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\obj\Debug\net8.0\88. Polygon.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\obj\Debug\net8.0\88. Polygon.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\obj\Debug\net8.0\88. Polygon.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\obj\Debug\net8.0\88. Polygon.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\obj\Debug\net8.0\88. Polygon.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\obj\Debug\net8.0\refint\88. Polygon.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\obj\Debug\net8.0\88. Polygon.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\obj\Debug\net8.0\88. Polygon.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\88. Polygon\88. Polygon\obj\Debug\net8.0\ref\88. Polygon.dll

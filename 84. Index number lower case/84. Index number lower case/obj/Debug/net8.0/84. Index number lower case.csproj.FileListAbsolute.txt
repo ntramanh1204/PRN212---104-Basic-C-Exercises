@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\bin\Debug\net8.0\84. Index number lower case.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\bin\Debug\net8.0\84. Index number lower case.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\bin\Debug\net8.0\84. Index number lower case.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\bin\Debug\net8.0\84. Index number lower case.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\bin\Debug\net8.0\84. Index number lower case.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\obj\Debug\net8.0\84. Index number lower case.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\obj\Debug\net8.0\84. Index number lower case.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\obj\Debug\net8.0\84. Index number lower case.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\obj\Debug\net8.0\84. Index number lower case.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\obj\Debug\net8.0\84. Index number lower case.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\obj\Debug\net8.0\84. Index number lower case.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\obj\Debug\net8.0\refint\84. Index number lower case.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\obj\Debug\net8.0\84. Index number lower case.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\obj\Debug\net8.0\84. Index number lower case.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\84. Index number lower case\84. Index number lower case\obj\Debug\net8.0\ref\84. Index number lower case.dll

@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\obj\Debug\net8.0\79. Int to string and back.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\obj\Debug\net8.0\79. Int to string and back.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\obj\Debug\net8.0\79. Int to string and back.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\obj\Debug\net8.0\79. Int to string and back.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\obj\Debug\net8.0\79. Int to string and back.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\bin\Debug\net8.0\79. Int to string and back.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\bin\Debug\net8.0\79. Int to string and back.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\bin\Debug\net8.0\79. Int to string and back.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\bin\Debug\net8.0\79. Int to string and back.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\bin\Debug\net8.0\79. Int to string and back.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\obj\Debug\net8.0\79. Int to string and back.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\obj\Debug\net8.0\refint\79. Int to string and back.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\obj\Debug\net8.0\79. Int to string and back.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\obj\Debug\net8.0\79. Int to string and back.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\79. Int to string and back\79. Int to string and back\obj\Debug\net8.0\ref\79. Int to string and back.dll

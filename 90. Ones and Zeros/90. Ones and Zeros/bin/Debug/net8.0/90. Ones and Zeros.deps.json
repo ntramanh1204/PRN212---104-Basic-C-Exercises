@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "90. Ones and Zeros/1.0.0": {
+        "runtime": {
+          "90. Ones and Zeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "90. Ones and Zeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

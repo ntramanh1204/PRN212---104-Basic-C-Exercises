@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "92. Next prime number/1.0.0": {
+        "runtime": {
+          "92. Next prime number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "92. Next prime number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

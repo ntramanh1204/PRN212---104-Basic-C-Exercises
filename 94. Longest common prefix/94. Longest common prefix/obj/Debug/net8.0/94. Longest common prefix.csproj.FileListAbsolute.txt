@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\bin\Debug\net8.0\94. Longest common prefix.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\bin\Debug\net8.0\94. Longest common prefix.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\bin\Debug\net8.0\94. Longest common prefix.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\bin\Debug\net8.0\94. Longest common prefix.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\bin\Debug\net8.0\94. Longest common prefix.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\obj\Debug\net8.0\94. Longest common prefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\obj\Debug\net8.0\94. Longest common prefix.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\obj\Debug\net8.0\94. Longest common prefix.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\obj\Debug\net8.0\94. Longest common prefix.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\obj\Debug\net8.0\94. Longest common prefix.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\obj\Debug\net8.0\94. Longest common prefix.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\obj\Debug\net8.0\refint\94. Longest common prefix.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\obj\Debug\net8.0\94. Longest common prefix.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\obj\Debug\net8.0\94. Longest common prefix.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\94. Longest common prefix\94. Longest common prefix\obj\Debug\net8.0\ref\94. Longest common prefix.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\93. Square root\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9684E03-2B5F-46FC-9E05-9FBA67026A01}|93. Square root\\93. Square root.csproj|d:\\0. workspace\\code\\c#\\basic exercises\\93. square root\\93. square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9684E03-2B5F-46FC-9E05-9FBA67026A01}|93. Square root\\93. Square root.csproj|solutionrelative:93. square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\93. Square root\\93. Square root\\Program.cs",
+              "RelativeDocumentMoniker": "93. Square root\\Program.cs",
+              "ToolTip": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\93. Square root\\93. Square root\\Program.cs",
+              "RelativeToolTip": "93. Square root\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:08:55.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

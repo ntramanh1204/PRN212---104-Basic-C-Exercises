@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\95. Brackets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94115781-70F0-4579-8FC6-0511E80CF96F}|95. Brackets\\95. Brackets.csproj|d:\\0. workspace\\code\\c#\\basic exercises\\95. brackets\\95. brackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94115781-70F0-4579-8FC6-0511E80CF96F}|95. Brackets\\95. Brackets.csproj|solutionrelative:95. brackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\95. Brackets\\95. Brackets\\Program.cs",
+              "RelativeDocumentMoniker": "95. Brackets\\Program.cs",
+              "ToolTip": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\95. Brackets\\95. Brackets\\Program.cs",
+              "RelativeToolTip": "95. Brackets\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:13:10.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

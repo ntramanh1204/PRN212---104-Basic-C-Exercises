@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\obj\Debug\net8.0\86. num of letter and digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\obj\Debug\net8.0\86. num of letter and digit.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\obj\Debug\net8.0\86. num of letter and digit.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\obj\Debug\net8.0\86. num of letter and digit.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\obj\Debug\net8.0\86. num of letter and digit.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\bin\Debug\net8.0\86. num of letter and digit.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\bin\Debug\net8.0\86. num of letter and digit.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\bin\Debug\net8.0\86. num of letter and digit.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\bin\Debug\net8.0\86. num of letter and digit.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\bin\Debug\net8.0\86. num of letter and digit.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\obj\Debug\net8.0\86. num of letter and digit.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\obj\Debug\net8.0\refint\86. num of letter and digit.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\obj\Debug\net8.0\86. num of letter and digit.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\obj\Debug\net8.0\86. num of letter and digit.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\86. num of letter and digit\86. num of letter and digit\obj\Debug\net8.0\ref\86. num of letter and digit.dll

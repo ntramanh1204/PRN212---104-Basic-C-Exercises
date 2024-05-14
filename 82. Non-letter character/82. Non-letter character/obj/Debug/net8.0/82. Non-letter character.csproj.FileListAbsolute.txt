@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\bin\Debug\net8.0\82. Non-letter character.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\bin\Debug\net8.0\82. Non-letter character.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\bin\Debug\net8.0\82. Non-letter character.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\bin\Debug\net8.0\82. Non-letter character.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\bin\Debug\net8.0\82. Non-letter character.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\obj\Debug\net8.0\82. Non-letter character.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\obj\Debug\net8.0\82. Non-letter character.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\obj\Debug\net8.0\82. Non-letter character.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\obj\Debug\net8.0\82. Non-letter character.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\obj\Debug\net8.0\82. Non-letter character.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\obj\Debug\net8.0\82. Non-letter character.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\obj\Debug\net8.0\refint\82. Non-letter character.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\obj\Debug\net8.0\82. Non-letter character.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\obj\Debug\net8.0\82. Non-letter character.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\82. Non-letter character\82. Non-letter character\obj\Debug\net8.0\ref\82. Non-letter character.dll

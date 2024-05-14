@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\bin\Debug\net8.0\83. Vowels.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\bin\Debug\net8.0\83. Vowels.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\bin\Debug\net8.0\83. Vowels.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\bin\Debug\net8.0\83. Vowels.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\bin\Debug\net8.0\83. Vowels.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\obj\Debug\net8.0\83. Vowels.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\obj\Debug\net8.0\83. Vowels.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\obj\Debug\net8.0\83. Vowels.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\obj\Debug\net8.0\83. Vowels.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\obj\Debug\net8.0\83. Vowels.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\obj\Debug\net8.0\83. Vowels.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\obj\Debug\net8.0\refint\83. Vowels.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\obj\Debug\net8.0\83. Vowels.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\obj\Debug\net8.0\83. Vowels.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\83. Vowels\83. Vowels\obj\Debug\net8.0\ref\83. Vowels.dll

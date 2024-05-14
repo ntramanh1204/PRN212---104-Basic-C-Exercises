@@ -1,0 +1,15 @@
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\bin\Debug\net8.0\89. Positive and negative.exe
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\bin\Debug\net8.0\89. Positive and negative.deps.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\bin\Debug\net8.0\89. Positive and negative.runtimeconfig.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\bin\Debug\net8.0\89. Positive and negative.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\bin\Debug\net8.0\89. Positive and negative.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\obj\Debug\net8.0\89. Positive and negative.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\obj\Debug\net8.0\89. Positive and negative.AssemblyInfoInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\obj\Debug\net8.0\89. Positive and negative.AssemblyInfo.cs
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\obj\Debug\net8.0\89. Positive and negative.csproj.CoreCompileInputs.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\obj\Debug\net8.0\89. Positive and negative.sourcelink.json
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\obj\Debug\net8.0\89. Positive and negative.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\obj\Debug\net8.0\refint\89. Positive and negative.dll
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\obj\Debug\net8.0\89. Positive and negative.pdb
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\obj\Debug\net8.0\89. Positive and negative.genruntimeconfig.cache
+D:\0. WORKSPACE\CODE\C#\Basic Exercises\89. Positive and negative\89. Positive and negative\obj\Debug\net8.0\ref\89. Positive and negative.dll

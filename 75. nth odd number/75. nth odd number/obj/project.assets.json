@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\Eyes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\C#\\Basic Exercises\\75. nth odd number\\75. nth odd number\\75. nth odd number.csproj",
+      "projectUniqueName": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\75. nth odd number\\75. nth odd number\\75. nth odd number.csproj",
       "projectName": "75. nth odd number",
-      "projectPath": "D:\\CODE\\C#\\Basic Exercises\\75. nth odd number\\75. nth odd number\\75. nth odd number.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\C#\\Basic Exercises\\75. nth odd number\\75. nth odd number\\obj\\",
+      "projectPath": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\75. nth odd number\\75. nth odd number\\75. nth odd number.csproj",
+      "packagesPath": "C:\\Users\\Eyes\\.nuget\\packages\\",
+      "outputPath": "D:\\0. WORKSPACE\\CODE\\C#\\Basic Exercises\\75. nth odd number\\75. nth odd number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eyes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
