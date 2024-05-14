@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\bin\Debug\net8.0\55. Product of Adjacent.exe
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\bin\Debug\net8.0\55. Product of Adjacent.deps.json
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\bin\Debug\net8.0\55. Product of Adjacent.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\bin\Debug\net8.0\55. Product of Adjacent.dll
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\bin\Debug\net8.0\55. Product of Adjacent.pdb
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\obj\Debug\net8.0\55. Product of Adjacent.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\obj\Debug\net8.0\55. Product of Adjacent.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\obj\Debug\net8.0\55. Product of Adjacent.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\obj\Debug\net8.0\55. Product of Adjacent.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\obj\Debug\net8.0\55. Product of Adjacent.sourcelink.json
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\obj\Debug\net8.0\55. Product of Adjacent.dll
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\obj\Debug\net8.0\refint\55. Product of Adjacent.dll
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\obj\Debug\net8.0\55. Product of Adjacent.pdb
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\obj\Debug\net8.0\55. Product of Adjacent.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\55. Product of Adjacent\55. Product of Adjacent\obj\Debug\net8.0\ref\55. Product of Adjacent.dll

@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\bin\Debug\net8.0\49. Last element equal.exe
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\bin\Debug\net8.0\49. Last element equal.deps.json
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\bin\Debug\net8.0\49. Last element equal.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\bin\Debug\net8.0\49. Last element equal.dll
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\bin\Debug\net8.0\49. Last element equal.pdb
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\obj\Debug\net8.0\49. Last element equal.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\obj\Debug\net8.0\49. Last element equal.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\obj\Debug\net8.0\49. Last element equal.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\obj\Debug\net8.0\49. Last element equal.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\obj\Debug\net8.0\49. Last element equal.sourcelink.json
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\obj\Debug\net8.0\49. Last element equal.dll
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\obj\Debug\net8.0\refint\49. Last element equal.dll
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\obj\Debug\net8.0\49. Last element equal.pdb
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\obj\Debug\net8.0\49. Last element equal.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\49. Last element equal\49. Last element equal\obj\Debug\net8.0\ref\49. Last element equal.dll

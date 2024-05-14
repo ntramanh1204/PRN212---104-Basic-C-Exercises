@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\bin\Debug\net8.0\58. Complete the range.exe
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\bin\Debug\net8.0\58. Complete the range.deps.json
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\bin\Debug\net8.0\58. Complete the range.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\bin\Debug\net8.0\58. Complete the range.dll
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\bin\Debug\net8.0\58. Complete the range.pdb
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\obj\Debug\net8.0\58. Complete the range.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\obj\Debug\net8.0\58. Complete the range.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\obj\Debug\net8.0\58. Complete the range.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\obj\Debug\net8.0\58. Complete the range.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\obj\Debug\net8.0\58. Complete the range.sourcelink.json
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\obj\Debug\net8.0\58. Complete the range.dll
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\obj\Debug\net8.0\refint\58. Complete the range.dll
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\obj\Debug\net8.0\58. Complete the range.pdb
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\obj\Debug\net8.0\58. Complete the range.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\58. Complete the range\58. Complete the range\obj\Debug\net8.0\ref\58. Complete the range.dll

@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\bin\Debug\net8.0\56. Palindrome string.exe
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\bin\Debug\net8.0\56. Palindrome string.deps.json
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\bin\Debug\net8.0\56. Palindrome string.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\bin\Debug\net8.0\56. Palindrome string.dll
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\bin\Debug\net8.0\56. Palindrome string.pdb
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\obj\Debug\net8.0\56. Palindrome string.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\obj\Debug\net8.0\56. Palindrome string.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\obj\Debug\net8.0\56. Palindrome string.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\obj\Debug\net8.0\56. Palindrome string.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\obj\Debug\net8.0\56. Palindrome string.sourcelink.json
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\obj\Debug\net8.0\56. Palindrome string.dll
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\obj\Debug\net8.0\refint\56. Palindrome string.dll
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\obj\Debug\net8.0\56. Palindrome string.pdb
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\obj\Debug\net8.0\56. Palindrome string.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\56. Palindrome string\56. Palindrome string\obj\Debug\net8.0\ref\56. Palindrome string.dll

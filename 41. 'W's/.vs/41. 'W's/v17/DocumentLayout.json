@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\41. \u0027W\u0027s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58CF832C-05CB-4437-BEDC-CAC234A704E6}|41. \u0027W\u0027s\\41. \u0027W\u0027s.csproj|d:\\code\\c#\\basic exercises\\41. \u0027w\u0027s\\41. \u0027w\u0027s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CF832C-05CB-4437-BEDC-CAC234A704E6}|41. \u0027W\u0027s\\41. \u0027W\u0027s.csproj|solutionrelative:41. \u0027w\u0027s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\41. \u0027W\u0027s\\41. \u0027W\u0027s\\Program.cs",
+              "RelativeDocumentMoniker": "41. \u0027W\u0027s\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\41. \u0027W\u0027s\\41. \u0027W\u0027s\\Program.cs",
+              "RelativeToolTip": "41. \u0027W\u0027s\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:09:39.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

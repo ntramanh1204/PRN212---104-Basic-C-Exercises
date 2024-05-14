@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\bin\Debug\net8.0\75. nth odd number.exe
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\bin\Debug\net8.0\75. nth odd number.deps.json
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\bin\Debug\net8.0\75. nth odd number.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\bin\Debug\net8.0\75. nth odd number.dll
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\bin\Debug\net8.0\75. nth odd number.pdb
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.sourcelink.json
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.dll
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\refint\75. nth odd number.dll
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.pdb
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\75. nth odd number.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\75. nth odd number\75. nth odd number\obj\Debug\net8.0\ref\75. nth odd number.dll

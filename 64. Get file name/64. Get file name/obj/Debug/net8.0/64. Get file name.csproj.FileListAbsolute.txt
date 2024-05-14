@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\bin\Debug\net8.0\64. Get file name.exe
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\bin\Debug\net8.0\64. Get file name.deps.json
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\bin\Debug\net8.0\64. Get file name.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\bin\Debug\net8.0\64. Get file name.dll
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\bin\Debug\net8.0\64. Get file name.pdb
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\obj\Debug\net8.0\64. Get file name.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\obj\Debug\net8.0\64. Get file name.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\obj\Debug\net8.0\64. Get file name.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\obj\Debug\net8.0\64. Get file name.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\obj\Debug\net8.0\64. Get file name.sourcelink.json
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\obj\Debug\net8.0\64. Get file name.dll
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\obj\Debug\net8.0\refint\64. Get file name.dll
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\obj\Debug\net8.0\64. Get file name.pdb
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\obj\Debug\net8.0\64. Get file name.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\64. Get file name\64. Get file name\obj\Debug\net8.0\ref\64. Get file name.dll

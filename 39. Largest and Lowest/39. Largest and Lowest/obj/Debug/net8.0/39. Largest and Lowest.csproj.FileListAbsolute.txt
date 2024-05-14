@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\bin\Debug\net8.0\39. Largest and Lowest.exe
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\bin\Debug\net8.0\39. Largest and Lowest.deps.json
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\bin\Debug\net8.0\39. Largest and Lowest.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\bin\Debug\net8.0\39. Largest and Lowest.dll
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\bin\Debug\net8.0\39. Largest and Lowest.pdb
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\obj\Debug\net8.0\39. Largest and Lowest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\obj\Debug\net8.0\39. Largest and Lowest.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\obj\Debug\net8.0\39. Largest and Lowest.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\obj\Debug\net8.0\39. Largest and Lowest.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\obj\Debug\net8.0\39. Largest and Lowest.sourcelink.json
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\obj\Debug\net8.0\39. Largest and Lowest.dll
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\obj\Debug\net8.0\refint\39. Largest and Lowest.dll
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\obj\Debug\net8.0\39. Largest and Lowest.pdb
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\obj\Debug\net8.0\39. Largest and Lowest.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\39. Largest and Lowest\39. Largest and Lowest\obj\Debug\net8.0\ref\39. Largest and Lowest.dll

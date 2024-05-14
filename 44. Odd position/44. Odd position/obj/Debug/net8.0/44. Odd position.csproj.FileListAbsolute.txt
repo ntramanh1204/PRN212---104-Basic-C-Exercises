@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\bin\Debug\net8.0\44. Odd position.exe
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\bin\Debug\net8.0\44. Odd position.deps.json
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\bin\Debug\net8.0\44. Odd position.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\bin\Debug\net8.0\44. Odd position.dll
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\bin\Debug\net8.0\44. Odd position.pdb
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\obj\Debug\net8.0\44. Odd position.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\obj\Debug\net8.0\44. Odd position.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\obj\Debug\net8.0\44. Odd position.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\obj\Debug\net8.0\44. Odd position.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\obj\Debug\net8.0\44. Odd position.sourcelink.json
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\obj\Debug\net8.0\44. Odd position.dll
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\obj\Debug\net8.0\refint\44. Odd position.dll
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\obj\Debug\net8.0\44. Odd position.pdb
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\obj\Debug\net8.0\44. Odd position.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\44. Odd position\44. Odd position\obj\Debug\net8.0\ref\44. Odd position.dll

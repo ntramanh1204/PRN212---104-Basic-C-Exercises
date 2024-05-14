@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\bin\Debug\net8.0\41. 'W's.exe
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\bin\Debug\net8.0\41. 'W's.deps.json
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\bin\Debug\net8.0\41. 'W's.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\bin\Debug\net8.0\41. 'W's.dll
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\bin\Debug\net8.0\41. 'W's.pdb
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\obj\Debug\net8.0\41. 'W's.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\obj\Debug\net8.0\41. 'W's.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\obj\Debug\net8.0\41. 'W's.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\obj\Debug\net8.0\41. 'W's.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\obj\Debug\net8.0\41. 'W's.sourcelink.json
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\obj\Debug\net8.0\41. 'W's.dll
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\obj\Debug\net8.0\refint\41. 'W's.dll
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\obj\Debug\net8.0\41. 'W's.pdb
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\obj\Debug\net8.0\41. 'W's.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\41. 'W's\41. 'W's\obj\Debug\net8.0\ref\41. 'W's.dll

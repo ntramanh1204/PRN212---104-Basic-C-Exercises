@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\bin\Debug\net8.0\42. First 4 lower.exe
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\bin\Debug\net8.0\42. First 4 lower.deps.json
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\bin\Debug\net8.0\42. First 4 lower.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\bin\Debug\net8.0\42. First 4 lower.dll
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\bin\Debug\net8.0\42. First 4 lower.pdb
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\obj\Debug\net8.0\42. First 4 lower.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\obj\Debug\net8.0\42. First 4 lower.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\obj\Debug\net8.0\42. First 4 lower.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\obj\Debug\net8.0\42. First 4 lower.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\obj\Debug\net8.0\42. First 4 lower.sourcelink.json
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\obj\Debug\net8.0\42. First 4 lower.dll
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\obj\Debug\net8.0\refint\42. First 4 lower.dll
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\obj\Debug\net8.0\42. First 4 lower.pdb
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\obj\Debug\net8.0\42. First 4 lower.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\42. First 4 lower\42. First 4 lower\obj\Debug\net8.0\ref\42. First 4 lower.dll

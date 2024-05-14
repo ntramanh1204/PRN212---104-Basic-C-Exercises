@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\64. Get file name\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F43422-7C13-4195-98FE-817AADF23FC1}|64. Get file name\\64. Get file name.csproj|d:\\code\\c#\\basic exercises\\64. get file name\\64. get file name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F43422-7C13-4195-98FE-817AADF23FC1}|64. Get file name\\64. Get file name.csproj|solutionrelative:64. get file name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\64. Get file name\\64. Get file name\\Program.cs",
+              "RelativeDocumentMoniker": "64. Get file name\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\64. Get file name\\64. Get file name\\Program.cs",
+              "RelativeToolTip": "64. Get file name\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:41:54.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\57. Prod of Adjacent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B79F24C-ABD9-4578-9098-4898DE72BBB5}|57. Prod of Adjacent\\57. Prod of Adjacent.csproj|d:\\code\\c#\\basic exercises\\57. prod of adjacent\\57. prod of adjacent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B79F24C-ABD9-4578-9098-4898DE72BBB5}|57. Prod of Adjacent\\57. Prod of Adjacent.csproj|solutionrelative:57. prod of adjacent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\57. Prod of Adjacent\\57. Prod of Adjacent\\Program.cs",
+              "RelativeDocumentMoniker": "57. Prod of Adjacent\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\57. Prod of Adjacent\\57. Prod of Adjacent\\Program.cs",
+              "RelativeToolTip": "57. Prod of Adjacent\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:26:30.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\bin\Debug\net8.0\43. WWs.exe
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\bin\Debug\net8.0\43. WWs.deps.json
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\bin\Debug\net8.0\43. WWs.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\bin\Debug\net8.0\43. WWs.dll
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\bin\Debug\net8.0\43. WWs.pdb
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\obj\Debug\net8.0\43. WWs.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\obj\Debug\net8.0\43. WWs.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\obj\Debug\net8.0\43. WWs.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\obj\Debug\net8.0\43. WWs.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\obj\Debug\net8.0\43. WWs.sourcelink.json
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\obj\Debug\net8.0\43. WWs.dll
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\obj\Debug\net8.0\refint\43. WWs.dll
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\obj\Debug\net8.0\43. WWs.pdb
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\obj\Debug\net8.0\43. WWs.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\43. WWs\43. WWs\obj\Debug\net8.0\ref\43. WWs.dll

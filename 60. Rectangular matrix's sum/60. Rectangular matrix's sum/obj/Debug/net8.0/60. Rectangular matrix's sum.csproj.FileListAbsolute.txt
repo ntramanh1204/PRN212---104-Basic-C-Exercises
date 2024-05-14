@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\bin\Debug\net8.0\60. Rectangular matrix's sum.exe
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\bin\Debug\net8.0\60. Rectangular matrix's sum.deps.json
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\bin\Debug\net8.0\60. Rectangular matrix's sum.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\bin\Debug\net8.0\60. Rectangular matrix's sum.dll
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\bin\Debug\net8.0\60. Rectangular matrix's sum.pdb
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\obj\Debug\net8.0\60. Rectangular matrix's sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\obj\Debug\net8.0\60. Rectangular matrix's sum.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\obj\Debug\net8.0\60. Rectangular matrix's sum.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\obj\Debug\net8.0\60. Rectangular matrix's sum.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\obj\Debug\net8.0\60. Rectangular matrix's sum.sourcelink.json
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\obj\Debug\net8.0\60. Rectangular matrix's sum.dll
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\obj\Debug\net8.0\refint\60. Rectangular matrix's sum.dll
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\obj\Debug\net8.0\60. Rectangular matrix's sum.pdb
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\obj\Debug\net8.0\60. Rectangular matrix's sum.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\60. Rectangular matrix's sum\60. Rectangular matrix's sum\obj\Debug\net8.0\ref\60. Rectangular matrix's sum.dll

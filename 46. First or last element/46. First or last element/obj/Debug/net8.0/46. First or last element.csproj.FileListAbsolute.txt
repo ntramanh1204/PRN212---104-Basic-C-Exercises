@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\bin\Debug\net8.0\46. First or last element.exe
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\bin\Debug\net8.0\46. First or last element.deps.json
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\bin\Debug\net8.0\46. First or last element.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\bin\Debug\net8.0\46. First or last element.dll
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\bin\Debug\net8.0\46. First or last element.pdb
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\obj\Debug\net8.0\46. First or last element.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\obj\Debug\net8.0\46. First or last element.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\obj\Debug\net8.0\46. First or last element.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\obj\Debug\net8.0\46. First or last element.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\obj\Debug\net8.0\46. First or last element.sourcelink.json
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\obj\Debug\net8.0\46. First or last element.dll
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\obj\Debug\net8.0\refint\46. First or last element.dll
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\obj\Debug\net8.0\46. First or last element.pdb
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\obj\Debug\net8.0\46. First or last element.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\46. First or last element\46. First or last element\obj\Debug\net8.0\ref\46. First or last element.dll

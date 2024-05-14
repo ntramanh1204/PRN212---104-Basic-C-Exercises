@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\bin\Debug\net8.0\67. Coded string.exe
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\bin\Debug\net8.0\67. Coded string.deps.json
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\bin\Debug\net8.0\67. Coded string.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\bin\Debug\net8.0\67. Coded string.dll
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\bin\Debug\net8.0\67. Coded string.pdb
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\obj\Debug\net8.0\67. Coded string.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\obj\Debug\net8.0\67. Coded string.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\obj\Debug\net8.0\67. Coded string.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\obj\Debug\net8.0\67. Coded string.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\obj\Debug\net8.0\67. Coded string.sourcelink.json
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\obj\Debug\net8.0\67. Coded string.dll
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\obj\Debug\net8.0\refint\67. Coded string.dll
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\obj\Debug\net8.0\67. Coded string.pdb
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\obj\Debug\net8.0\67. Coded string.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\67. Coded string\67. Coded string\obj\Debug\net8.0\ref\67. Coded string.dll

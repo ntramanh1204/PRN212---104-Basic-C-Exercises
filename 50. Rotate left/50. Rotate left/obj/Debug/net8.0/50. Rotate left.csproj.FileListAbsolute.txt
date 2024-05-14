@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\bin\Debug\net8.0\50. Rotate left.exe
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\bin\Debug\net8.0\50. Rotate left.deps.json
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\bin\Debug\net8.0\50. Rotate left.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\bin\Debug\net8.0\50. Rotate left.dll
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\bin\Debug\net8.0\50. Rotate left.pdb
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\obj\Debug\net8.0\50. Rotate left.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\obj\Debug\net8.0\50. Rotate left.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\obj\Debug\net8.0\50. Rotate left.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\obj\Debug\net8.0\50. Rotate left.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\obj\Debug\net8.0\50. Rotate left.sourcelink.json
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\obj\Debug\net8.0\50. Rotate left.dll
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\obj\Debug\net8.0\refint\50. Rotate left.dll
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\obj\Debug\net8.0\50. Rotate left.pdb
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\obj\Debug\net8.0\50. Rotate left.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\50. Rotate left\50. Rotate left\obj\Debug\net8.0\ref\50. Rotate left.dll

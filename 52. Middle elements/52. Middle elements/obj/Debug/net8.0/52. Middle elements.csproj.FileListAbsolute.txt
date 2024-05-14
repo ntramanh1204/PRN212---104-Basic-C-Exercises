@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\bin\Debug\net8.0\52. Middle elements.exe
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\bin\Debug\net8.0\52. Middle elements.deps.json
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\bin\Debug\net8.0\52. Middle elements.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\bin\Debug\net8.0\52. Middle elements.dll
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\bin\Debug\net8.0\52. Middle elements.pdb
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\obj\Debug\net8.0\52. Middle elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\obj\Debug\net8.0\52. Middle elements.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\obj\Debug\net8.0\52. Middle elements.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\obj\Debug\net8.0\52. Middle elements.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\obj\Debug\net8.0\52. Middle elements.sourcelink.json
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\obj\Debug\net8.0\52. Middle elements.dll
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\obj\Debug\net8.0\refint\52. Middle elements.dll
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\obj\Debug\net8.0\52. Middle elements.pdb
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\obj\Debug\net8.0\52. Middle elements.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\52. Middle elements\52. Middle elements\obj\Debug\net8.0\ref\52. Middle elements.dll

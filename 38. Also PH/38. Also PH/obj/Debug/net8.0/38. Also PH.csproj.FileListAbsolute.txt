@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\bin\Debug\net8.0\38. Also PH.exe
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\bin\Debug\net8.0\38. Also PH.deps.json
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\bin\Debug\net8.0\38. Also PH.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\bin\Debug\net8.0\38. Also PH.dll
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\bin\Debug\net8.0\38. Also PH.pdb
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\obj\Debug\net8.0\38. Also PH.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\obj\Debug\net8.0\38. Also PH.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\obj\Debug\net8.0\38. Also PH.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\obj\Debug\net8.0\38. Also PH.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\obj\Debug\net8.0\38. Also PH.sourcelink.json
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\obj\Debug\net8.0\38. Also PH.dll
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\obj\Debug\net8.0\refint\38. Also PH.dll
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\obj\Debug\net8.0\38. Also PH.pdb
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\obj\Debug\net8.0\38. Also PH.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\38. Also PH\38. Also PH\obj\Debug\net8.0\ref\38. Also PH.dll

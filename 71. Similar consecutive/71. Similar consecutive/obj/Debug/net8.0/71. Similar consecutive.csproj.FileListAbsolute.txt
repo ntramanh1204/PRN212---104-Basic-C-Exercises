@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\bin\Debug\net8.0\71. Similar consecutive.exe
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\bin\Debug\net8.0\71. Similar consecutive.deps.json
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\bin\Debug\net8.0\71. Similar consecutive.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\bin\Debug\net8.0\71. Similar consecutive.dll
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\bin\Debug\net8.0\71. Similar consecutive.pdb
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\obj\Debug\net8.0\71. Similar consecutive.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\obj\Debug\net8.0\71. Similar consecutive.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\obj\Debug\net8.0\71. Similar consecutive.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\obj\Debug\net8.0\71. Similar consecutive.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\obj\Debug\net8.0\71. Similar consecutive.sourcelink.json
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\obj\Debug\net8.0\71. Similar consecutive.dll
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\obj\Debug\net8.0\refint\71. Similar consecutive.dll
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\obj\Debug\net8.0\71. Similar consecutive.pdb
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\obj\Debug\net8.0\71. Similar consecutive.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\71. Similar consecutive\71. Similar consecutive\obj\Debug\net8.0\ref\71. Similar consecutive.dll

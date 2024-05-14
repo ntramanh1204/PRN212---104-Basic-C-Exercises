@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\bin\Debug\net8.0\74. Odd or even length.exe
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\bin\Debug\net8.0\74. Odd or even length.deps.json
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\bin\Debug\net8.0\74. Odd or even length.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\bin\Debug\net8.0\74. Odd or even length.dll
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\bin\Debug\net8.0\74. Odd or even length.pdb
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\obj\Debug\net8.0\74. Odd or even length.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\obj\Debug\net8.0\74. Odd or even length.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\obj\Debug\net8.0\74. Odd or even length.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\obj\Debug\net8.0\74. Odd or even length.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\obj\Debug\net8.0\74. Odd or even length.sourcelink.json
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\obj\Debug\net8.0\74. Odd or even length.dll
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\obj\Debug\net8.0\refint\74. Odd or even length.dll
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\obj\Debug\net8.0\74. Odd or even length.pdb
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\obj\Debug\net8.0\74. Odd or even length.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\74. Odd or even length\74. Odd or even length\obj\Debug\net8.0\ref\74. Odd or even length.dll

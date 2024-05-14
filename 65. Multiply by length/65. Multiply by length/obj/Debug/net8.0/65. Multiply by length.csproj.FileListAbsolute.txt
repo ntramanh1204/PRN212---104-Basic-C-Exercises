@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\bin\Debug\net8.0\65. Multiply by length.exe
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\bin\Debug\net8.0\65. Multiply by length.deps.json
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\bin\Debug\net8.0\65. Multiply by length.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\bin\Debug\net8.0\65. Multiply by length.dll
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\bin\Debug\net8.0\65. Multiply by length.pdb
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\obj\Debug\net8.0\65. Multiply by length.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\obj\Debug\net8.0\65. Multiply by length.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\obj\Debug\net8.0\65. Multiply by length.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\obj\Debug\net8.0\65. Multiply by length.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\obj\Debug\net8.0\65. Multiply by length.sourcelink.json
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\obj\Debug\net8.0\65. Multiply by length.dll
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\obj\Debug\net8.0\refint\65. Multiply by length.dll
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\obj\Debug\net8.0\65. Multiply by length.pdb
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\obj\Debug\net8.0\65. Multiply by length.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\65. Multiply by length\65. Multiply by length\obj\Debug\net8.0\ref\65. Multiply by length.dll

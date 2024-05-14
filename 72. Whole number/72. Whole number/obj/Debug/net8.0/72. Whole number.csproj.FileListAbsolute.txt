@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\bin\Debug\net8.0\72. Whole number.exe
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\bin\Debug\net8.0\72. Whole number.deps.json
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\bin\Debug\net8.0\72. Whole number.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\bin\Debug\net8.0\72. Whole number.dll
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\bin\Debug\net8.0\72. Whole number.pdb
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\obj\Debug\net8.0\72. Whole number.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\obj\Debug\net8.0\72. Whole number.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\obj\Debug\net8.0\72. Whole number.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\obj\Debug\net8.0\72. Whole number.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\obj\Debug\net8.0\72. Whole number.sourcelink.json
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\obj\Debug\net8.0\72. Whole number.dll
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\obj\Debug\net8.0\refint\72. Whole number.dll
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\obj\Debug\net8.0\72. Whole number.pdb
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\obj\Debug\net8.0\72. Whole number.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\72. Whole number\72. Whole number\obj\Debug\net8.0\ref\72. Whole number.dll

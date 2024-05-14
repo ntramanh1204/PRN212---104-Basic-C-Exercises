@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\66. Minimum value\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6B59B-431E-4432-A2FB-553A154A6233}|66. Minimum value\\66. Minimum value.csproj|d:\\code\\c#\\basic exercises\\66. minimum value\\66. minimum value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB6B59B-431E-4432-A2FB-553A154A6233}|66. Minimum value\\66. Minimum value.csproj|solutionrelative:66. minimum value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\66. Minimum value\\66. Minimum value\\Program.cs",
+              "RelativeDocumentMoniker": "66. Minimum value\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\66. Minimum value\\66. Minimum value\\Program.cs",
+              "RelativeToolTip": "66. Minimum value\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:51:55.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

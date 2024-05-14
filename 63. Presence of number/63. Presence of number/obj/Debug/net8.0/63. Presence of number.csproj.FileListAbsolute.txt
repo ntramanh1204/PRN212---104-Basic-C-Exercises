@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\bin\Debug\net8.0\63. Presence of number.exe
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\bin\Debug\net8.0\63. Presence of number.deps.json
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\bin\Debug\net8.0\63. Presence of number.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\bin\Debug\net8.0\63. Presence of number.dll
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\bin\Debug\net8.0\63. Presence of number.pdb
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\obj\Debug\net8.0\63. Presence of number.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\obj\Debug\net8.0\63. Presence of number.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\obj\Debug\net8.0\63. Presence of number.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\obj\Debug\net8.0\63. Presence of number.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\obj\Debug\net8.0\63. Presence of number.sourcelink.json
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\obj\Debug\net8.0\63. Presence of number.dll
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\obj\Debug\net8.0\refint\63. Presence of number.dll
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\obj\Debug\net8.0\63. Presence of number.pdb
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\obj\Debug\net8.0\63. Presence of number.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\63. Presence of number\63. Presence of number\obj\Debug\net8.0\ref\63. Presence of number.dll

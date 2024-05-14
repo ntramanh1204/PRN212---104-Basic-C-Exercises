@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "51. Largest value between first and last/1.0.0": {
+        "runtime": {
+          "51. Largest value between first and last.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "51. Largest value between first and last/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

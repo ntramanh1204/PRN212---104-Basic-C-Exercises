@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\45. Specified number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBFF42E-5DC2-4B80-9568-8D32A1451829}|45. Specified number\\45. Specified number.csproj|d:\\code\\c#\\basic exercises\\45. specified number\\45. specified number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBFF42E-5DC2-4B80-9568-8D32A1451829}|45. Specified number\\45. Specified number.csproj|solutionrelative:45. specified number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\45. Specified number\\45. Specified number\\Program.cs",
+              "RelativeDocumentMoniker": "45. Specified number\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\45. Specified number\\45. Specified number\\Program.cs",
+              "RelativeToolTip": "45. Specified number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:28:09.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

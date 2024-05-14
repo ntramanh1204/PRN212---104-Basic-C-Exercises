@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\bin\Debug\net8.0\48. First Last Equal.exe
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\bin\Debug\net8.0\48. First Last Equal.deps.json
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\bin\Debug\net8.0\48. First Last Equal.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\bin\Debug\net8.0\48. First Last Equal.dll
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\bin\Debug\net8.0\48. First Last Equal.pdb
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\obj\Debug\net8.0\48. First Last Equal.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\obj\Debug\net8.0\48. First Last Equal.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\obj\Debug\net8.0\48. First Last Equal.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\obj\Debug\net8.0\48. First Last Equal.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\obj\Debug\net8.0\48. First Last Equal.sourcelink.json
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\obj\Debug\net8.0\48. First Last Equal.dll
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\obj\Debug\net8.0\refint\48. First Last Equal.dll
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\obj\Debug\net8.0\48. First Last Equal.pdb
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\obj\Debug\net8.0\48. First Last Equal.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\48. First Last Equal\48. First Last Equal\obj\Debug\net8.0\ref\48. First Last Equal.dll

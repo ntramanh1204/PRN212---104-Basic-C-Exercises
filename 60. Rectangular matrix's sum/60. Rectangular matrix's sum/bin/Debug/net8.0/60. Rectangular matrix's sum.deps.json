@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "60. Rectangular matrix's sum/1.0.0": {
+        "runtime": {
+          "60. Rectangular matrix's sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "60. Rectangular matrix's sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

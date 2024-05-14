@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\54. Century\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4B0739-D063-4BF5-B183-B210C916914E}|54. Century\\54. Century.csproj|d:\\code\\c#\\basic exercises\\54. century\\54. century\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4B0739-D063-4BF5-B183-B210C916914E}|54. Century\\54. Century.csproj|solutionrelative:54. century\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\54. Century\\54. Century\\Program.cs",
+              "RelativeDocumentMoniker": "54. Century\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\54. Century\\54. Century\\Program.cs",
+              "RelativeToolTip": "54. Century\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:59:50.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

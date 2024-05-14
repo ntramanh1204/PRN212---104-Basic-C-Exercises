@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\bin\Debug\net8.0\66. Minimum value.exe
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\bin\Debug\net8.0\66. Minimum value.deps.json
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\bin\Debug\net8.0\66. Minimum value.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\bin\Debug\net8.0\66. Minimum value.dll
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\bin\Debug\net8.0\66. Minimum value.pdb
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\obj\Debug\net8.0\66. Minimum value.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\obj\Debug\net8.0\66. Minimum value.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\obj\Debug\net8.0\66. Minimum value.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\obj\Debug\net8.0\66. Minimum value.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\obj\Debug\net8.0\66. Minimum value.sourcelink.json
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\obj\Debug\net8.0\66. Minimum value.dll
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\obj\Debug\net8.0\refint\66. Minimum value.dll
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\obj\Debug\net8.0\66. Minimum value.pdb
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\obj\Debug\net8.0\66. Minimum value.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\66. Minimum value\66. Minimum value\obj\Debug\net8.0\ref\66. Minimum value.dll

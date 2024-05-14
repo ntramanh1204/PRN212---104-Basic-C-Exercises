@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\49. Last element equal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E715CCB-8EDD-4466-90CF-52181236CE2C}|49. Last element equal\\49. Last element equal.csproj|d:\\code\\c#\\basic exercises\\49. last element equal\\49. last element equal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E715CCB-8EDD-4466-90CF-52181236CE2C}|49. Last element equal\\49. Last element equal.csproj|solutionrelative:49. last element equal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\49. Last element equal\\49. Last element equal\\Program.cs",
+              "RelativeDocumentMoniker": "49. Last element equal\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\49. Last element equal\\49. Last element equal\\Program.cs",
+              "RelativeToolTip": "49. Last element equal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:43:40.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

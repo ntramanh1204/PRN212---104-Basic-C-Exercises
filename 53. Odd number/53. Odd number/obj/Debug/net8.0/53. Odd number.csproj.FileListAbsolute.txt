@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\bin\Debug\net8.0\53. Odd number.exe
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\bin\Debug\net8.0\53. Odd number.deps.json
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\bin\Debug\net8.0\53. Odd number.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\bin\Debug\net8.0\53. Odd number.dll
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\bin\Debug\net8.0\53. Odd number.pdb
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\obj\Debug\net8.0\53. Odd number.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\obj\Debug\net8.0\53. Odd number.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\obj\Debug\net8.0\53. Odd number.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\obj\Debug\net8.0\53. Odd number.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\obj\Debug\net8.0\53. Odd number.sourcelink.json
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\obj\Debug\net8.0\53. Odd number.dll
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\obj\Debug\net8.0\refint\53. Odd number.dll
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\obj\Debug\net8.0\53. Odd number.pdb
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\obj\Debug\net8.0\53. Odd number.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\53. Odd number\53. Odd number\obj\Debug\net8.0\ref\53. Odd number.dll

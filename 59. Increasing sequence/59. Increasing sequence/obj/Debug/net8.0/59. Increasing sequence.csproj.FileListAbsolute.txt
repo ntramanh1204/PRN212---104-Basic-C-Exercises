@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\obj\Debug\net8.0\59. Increasing sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\obj\Debug\net8.0\59. Increasing sequence.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\obj\Debug\net8.0\59. Increasing sequence.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\obj\Debug\net8.0\59. Increasing sequence.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\obj\Debug\net8.0\59. Increasing sequence.sourcelink.json
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\bin\Debug\net8.0\59. Increasing sequence.exe
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\bin\Debug\net8.0\59. Increasing sequence.deps.json
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\bin\Debug\net8.0\59. Increasing sequence.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\bin\Debug\net8.0\59. Increasing sequence.dll
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\bin\Debug\net8.0\59. Increasing sequence.pdb
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\obj\Debug\net8.0\59. Increasing sequence.dll
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\obj\Debug\net8.0\refint\59. Increasing sequence.dll
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\obj\Debug\net8.0\59. Increasing sequence.pdb
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\obj\Debug\net8.0\59. Increasing sequence.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\59. Increasing sequence\59. Increasing sequence\obj\Debug\net8.0\ref\59. Increasing sequence.dll

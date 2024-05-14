@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\bin\Debug\net8.0\47. Sum of all.exe
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\bin\Debug\net8.0\47. Sum of all.deps.json
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\bin\Debug\net8.0\47. Sum of all.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\bin\Debug\net8.0\47. Sum of all.dll
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\bin\Debug\net8.0\47. Sum of all.pdb
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\obj\Debug\net8.0\47. Sum of all.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\obj\Debug\net8.0\47. Sum of all.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\obj\Debug\net8.0\47. Sum of all.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\obj\Debug\net8.0\47. Sum of all.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\obj\Debug\net8.0\47. Sum of all.sourcelink.json
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\obj\Debug\net8.0\47. Sum of all.dll
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\obj\Debug\net8.0\refint\47. Sum of all.dll
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\obj\Debug\net8.0\47. Sum of all.pdb
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\obj\Debug\net8.0\47. Sum of all.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\47. Sum of all\47. Sum of all\obj\Debug\net8.0\ref\47. Sum of all.dll

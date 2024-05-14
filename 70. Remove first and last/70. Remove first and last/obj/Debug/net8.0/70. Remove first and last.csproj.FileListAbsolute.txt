@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\bin\Debug\net8.0\70. Remove first and last.exe
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\bin\Debug\net8.0\70. Remove first and last.deps.json
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\bin\Debug\net8.0\70. Remove first and last.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\bin\Debug\net8.0\70. Remove first and last.dll
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\bin\Debug\net8.0\70. Remove first and last.pdb
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\obj\Debug\net8.0\70. Remove first and last.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\obj\Debug\net8.0\70. Remove first and last.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\obj\Debug\net8.0\70. Remove first and last.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\obj\Debug\net8.0\70. Remove first and last.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\obj\Debug\net8.0\70. Remove first and last.sourcelink.json
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\obj\Debug\net8.0\70. Remove first and last.dll
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\obj\Debug\net8.0\refint\70. Remove first and last.dll
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\obj\Debug\net8.0\70. Remove first and last.pdb
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\obj\Debug\net8.0\70. Remove first and last.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\70. Remove first and last\70. Remove first and last\obj\Debug\net8.0\ref\70. Remove first and last.dll

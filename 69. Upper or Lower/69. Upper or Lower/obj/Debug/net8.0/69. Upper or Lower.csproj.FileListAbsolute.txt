@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\bin\Debug\net8.0\69. Upper or Lower.exe
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\bin\Debug\net8.0\69. Upper or Lower.deps.json
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\bin\Debug\net8.0\69. Upper or Lower.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\bin\Debug\net8.0\69. Upper or Lower.dll
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\bin\Debug\net8.0\69. Upper or Lower.pdb
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\obj\Debug\net8.0\69. Upper or Lower.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\obj\Debug\net8.0\69. Upper or Lower.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\obj\Debug\net8.0\69. Upper or Lower.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\obj\Debug\net8.0\69. Upper or Lower.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\obj\Debug\net8.0\69. Upper or Lower.sourcelink.json
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\obj\Debug\net8.0\69. Upper or Lower.dll
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\obj\Debug\net8.0\refint\69. Upper or Lower.dll
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\obj\Debug\net8.0\69. Upper or Lower.pdb
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\obj\Debug\net8.0\69. Upper or Lower.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\69. Upper or Lower\69. Upper or Lower\obj\Debug\net8.0\ref\69. Upper or Lower.dll

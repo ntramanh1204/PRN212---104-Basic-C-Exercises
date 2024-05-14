@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\obj\Debug\net8.0\67. Count char.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\obj\Debug\net8.0\67. Count char.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\obj\Debug\net8.0\67. Count char.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\obj\Debug\net8.0\67. Count char.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\obj\Debug\net8.0\67. Count char.sourcelink.json
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\bin\Debug\net8.0\67. Count char.exe
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\bin\Debug\net8.0\67. Count char.deps.json
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\bin\Debug\net8.0\67. Count char.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\bin\Debug\net8.0\67. Count char.dll
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\bin\Debug\net8.0\67. Count char.pdb
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\obj\Debug\net8.0\67. Count char.dll
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\obj\Debug\net8.0\refint\67. Count char.dll
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\obj\Debug\net8.0\67. Count char.pdb
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\obj\Debug\net8.0\67. Count char.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\67. Count char\67. Count char\obj\Debug\net8.0\ref\67. Count char.dll

@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\bin\Debug\net8.0\62. Reverse String in Parentheses.exe
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\bin\Debug\net8.0\62. Reverse String in Parentheses.deps.json
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\bin\Debug\net8.0\62. Reverse String in Parentheses.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\bin\Debug\net8.0\62. Reverse String in Parentheses.dll
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\bin\Debug\net8.0\62. Reverse String in Parentheses.pdb
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\obj\Debug\net8.0\62. Reverse String in Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\obj\Debug\net8.0\62. Reverse String in Parentheses.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\obj\Debug\net8.0\62. Reverse String in Parentheses.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\obj\Debug\net8.0\62. Reverse String in Parentheses.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\obj\Debug\net8.0\62. Reverse String in Parentheses.sourcelink.json
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\obj\Debug\net8.0\62. Reverse String in Parentheses.dll
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\obj\Debug\net8.0\refint\62. Reverse String in Parentheses.dll
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\obj\Debug\net8.0\62. Reverse String in Parentheses.pdb
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\obj\Debug\net8.0\62. Reverse String in Parentheses.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\62. Reverse String in Parentheses\62. Reverse String in Parentheses\obj\Debug\net8.0\ref\62. Reverse String in Parentheses.dll

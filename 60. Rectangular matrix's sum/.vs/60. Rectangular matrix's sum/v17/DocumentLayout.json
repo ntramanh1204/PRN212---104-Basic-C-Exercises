@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C#\\Basic Exercises\\60. Rectangular matrix\u0027s sum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F498538-43CC-4EED-8FC3-F8E5CC3FC35E}|60. Rectangular matrix\u0027s sum\\60. Rectangular matrix\u0027s sum.csproj|d:\\code\\c#\\basic exercises\\60. rectangular matrix\u0027s sum\\60. rectangular matrix\u0027s sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F498538-43CC-4EED-8FC3-F8E5CC3FC35E}|60. Rectangular matrix\u0027s sum\\60. Rectangular matrix\u0027s sum.csproj|solutionrelative:60. rectangular matrix\u0027s sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\C#\\Basic Exercises\\60. Rectangular matrix\u0027s sum\\60. Rectangular matrix\u0027s sum\\Program.cs",
+              "RelativeDocumentMoniker": "60. Rectangular matrix\u0027s sum\\Program.cs",
+              "ToolTip": "D:\\CODE\\C#\\Basic Exercises\\60. Rectangular matrix\u0027s sum\\60. Rectangular matrix\u0027s sum\\Program.cs",
+              "RelativeToolTip": "60. Rectangular matrix\u0027s sum\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:31:41.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

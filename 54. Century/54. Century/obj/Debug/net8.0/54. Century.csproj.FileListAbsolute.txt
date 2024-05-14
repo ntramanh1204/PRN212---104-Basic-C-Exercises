@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\bin\Debug\net8.0\54. Century.exe
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\bin\Debug\net8.0\54. Century.deps.json
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\bin\Debug\net8.0\54. Century.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\bin\Debug\net8.0\54. Century.dll
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\bin\Debug\net8.0\54. Century.pdb
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\obj\Debug\net8.0\54. Century.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\obj\Debug\net8.0\54. Century.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\obj\Debug\net8.0\54. Century.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\obj\Debug\net8.0\54. Century.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\obj\Debug\net8.0\54. Century.sourcelink.json
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\obj\Debug\net8.0\54. Century.dll
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\obj\Debug\net8.0\refint\54. Century.dll
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\obj\Debug\net8.0\54. Century.pdb
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\obj\Debug\net8.0\54. Century.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\54. Century\54. Century\obj\Debug\net8.0\ref\54. Century.dll

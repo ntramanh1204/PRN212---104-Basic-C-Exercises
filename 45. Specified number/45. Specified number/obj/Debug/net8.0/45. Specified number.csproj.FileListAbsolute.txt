@@ -1,0 +1,15 @@
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\bin\Debug\net8.0\45. Specified number.exe
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\bin\Debug\net8.0\45. Specified number.deps.json
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\bin\Debug\net8.0\45. Specified number.runtimeconfig.json
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\bin\Debug\net8.0\45. Specified number.dll
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\bin\Debug\net8.0\45. Specified number.pdb
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\obj\Debug\net8.0\45. Specified number.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\obj\Debug\net8.0\45. Specified number.AssemblyInfoInputs.cache
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\obj\Debug\net8.0\45. Specified number.AssemblyInfo.cs
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\obj\Debug\net8.0\45. Specified number.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\obj\Debug\net8.0\45. Specified number.sourcelink.json
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\obj\Debug\net8.0\45. Specified number.dll
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\obj\Debug\net8.0\refint\45. Specified number.dll
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\obj\Debug\net8.0\45. Specified number.pdb
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\obj\Debug\net8.0\45. Specified number.genruntimeconfig.cache
+D:\CODE\C#\Basic Exercises\45. Specified number\45. Specified number\obj\Debug\net8.0\ref\45. Specified number.dll
